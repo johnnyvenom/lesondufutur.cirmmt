@@ -32,7 +32,11 @@ content:
         brightness: 0.7
         media: contact.jpg
     - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+      content: |
+        'Just opened last month!' |
+        
+        'Hello world!'
+
       align: right
       background:
         position: center
