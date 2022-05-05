@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: native
+  font: cyberpunk
   font_size: l
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'International conference on music technology and research being held in Montreal, Canada, May 24 - 27, 2022.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -33,19 +33,19 @@ header:
   navbar:
     enable: true
     align: c
-    show_logo: false
+    show_logo: true
     show_language: true
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} <a href="https://cirmmt.org">Centre for Interdisciplinary Research in Music Media and Technology</a>.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2 January, 2006'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
@@ -66,11 +66,11 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/johnnyvenom/lesondufutur.cirmmt'
     content_dir: content
     branch: main
   avatar:

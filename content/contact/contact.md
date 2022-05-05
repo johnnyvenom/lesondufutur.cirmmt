@@ -9,29 +9,29 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Contact us!
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: cirmmt.info@mcgill.ca
+  phone: +1 514 398 8793
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 527 Sherbrooke St. West
+    city: Montreal
+    region: Quebec
+    postcode: 'H3A 1E3'
+    country: Canada
+    country_code: CA
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '45.5059932'
+    longitude: '-73.5749102'
+  directions: Enter building and take elevator to 8th floor
+#   office_hours:
+    # - 'Monday 10:00 to 13:00'
+    # - 'Wednesday 09:00 to 10:00'
+#   appointment_url: 
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -43,7 +43,7 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: 
     formspree:
       id:
     netlify:
@@ -51,7 +51,9 @@ content:
       captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+To get in touch with CIRMMT and for general conference information, please use the methods below, and visit our website at [cirmmt.org](https://cirmmt.org). 
+
+For specific conference questions, please also consult the [Committee](../committee/) page to contact the organizers directly. 
