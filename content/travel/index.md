@@ -75,7 +75,7 @@ Bus lines to and from several regional Canadian and U.S. cities operate from [Ga
 
 ## Travel within Montréal
 
-Transportation within the city includes the STM metro (subway) and bus service, public taxis, Uber, and [Bixi](https://bixi.com/en) - Montréal's city bike rental service.
+Transportation options within the city include the STM [metro (subway)](https://www.stm.info/en/info/networks/metro) and [bus](https://www.stm.info/en/info/networks/bus) services, [public taxis](https://bonjour.taxi/en/), [Uber](https://www.uber.com/global/en/cities/montreal/), and [Bixi](https://bixi.com/en) - Montréal's city bike rental service.
 
 {{< figure src="bixi.jpg" caption="Biki city bikes are a great way to get around Montréal in the summer." >}}
 
