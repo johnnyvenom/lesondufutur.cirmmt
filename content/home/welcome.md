@@ -24,6 +24,6 @@ design:
 
 <br>
 
-The Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) is organizing its first international conference: "Le son du futur/Le futur du son," to take place in Montreal, May 24-27, 2022.
+The Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) is organizing its first international conference: "Le son du futur/Le futur du son," to take place in Montréal, May 24-27, 2022.
 
 

@@ -19,15 +19,15 @@ content:
   phone: +1 514 398 8793
   address:
     street: 527 Sherbrooke St. West
-    city: Montreal
+    city: Montréal
     region: Quebec
     postcode: 'H3A 1E3'
     country: Canada
     country_code: CA
   coordinates:
-    latitude: '45.5059932'
-    longitude: '-73.5749102'
-  directions: Enter building and take elevator to 8th floor
+    latitude: '45.5061964'
+    longitude: '-73.5728688'
+#   directions: Enter building and take elevator to 8th floor
 #   office_hours:
     # - 'Monday 10:00 to 13:00'
     # - 'Wednesday 09:00 to 10:00'
@@ -54,6 +54,6 @@ design:
   columns: '2'
 ---
 
-To get in touch with CIRMMT and for general conference information, please use the methods below, and visit our website at [cirmmt.org](https://cirmmt.org). 
+To get reach CIRMMT and for general conference information, please use the methods below, and visit our website at [cirmmt.org](https://cirmmt.org). 
 
 For specific conference questions, please also consult the [Committee](../committee/) page to contact the organizers directly. 

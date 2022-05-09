@@ -34,6 +34,6 @@ advanced:
 #### An international conference hosted by the **[Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)](https://cirmmt.org)**. 
 
 **Date:** May 24 - 27, 2022  
-**Location:** Montreal, Canada
+**Location:** Montréal, Canada
 
 &nbsp;
