@@ -15,10 +15,11 @@ role: Director
 # Organizations/Affiliations
 organizations:
 - name: Le Fresnoy, Studio National des Arts Contemporains, France
-  url: "https://www.lefresnoy.net/fr"
+  url: "https://www.lefresnoy.net/en/Le-Fresnoy/AlainFleischer"
+#   url: "https://www.lefresnoy.net/fr/Le-Fresnoy/AlainFleischer" (french)
 
 # Short bio (displayed in user profile at end of posts)
-bio: Short bio exercitation ipsum reprehenderit anim ea dolore ad.
+# bio: Short bio exercitation ipsum reprehenderit anim ea dolore ad.
 
 # List each interest with a dash
 # interests:
@@ -70,12 +71,12 @@ user_groups:
 - Keynote Speaker
 ---
 
-## Keynote title
+# About
 
-**Transfert de formes / Transfert de sens**
+Alain Fleischer was born in Paris in 1944.
 
-## Description
+After studying literature, linguistics, semiology and anthropology at the Sorbonne and at the École des Hautes Études en Sciences Sociales, he taught at the Université de Paris III, the Université du Québec à Montréal, and a number of art, photography and film schools (including IDHEC/FEMIS in Paris). Winner of the Prix de Rome, he was a resident at the Villa Medici from 1985 to 1987. He was tasked by the French Culture Ministry with conceiving Le Fresnoy – Studio National des Arts Contemporains, which he now directs.
 
-Ex do adipisicing sint anim ut eu excepteur incididunt ex cupidatat ex excepteur. Id dolore ipsum excepteur ipsum non dolore nisi commodo deserunt. Occaecat veniam occaecat anim officia irure sint do aliquip non ad enim ea.
+# At the conference
 
-Elit reprehenderit cupidatat dolore culpa excepteur quis culpa commodo voluptate sint exercitation reprehenderit tempor. Mollit esse in qui laborum excepteur laborum amet voluptate veniam. Ipsum proident est excepteur sunt reprehenderit laborum magna officia adipisicing commodo culpa ea. Eu sit cupidatat eiusmod pariatur aute adipisicing ut deserunt duis officia nostrud excepteur.
+- **Keynote:** *Transfert de formes / Transfert de sens*

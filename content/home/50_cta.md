@@ -5,10 +5,14 @@ widget: blank
 headless: true
 weight: 50
 
-title: Register
+title: Registration
 
 design:
   columns: '2'
 ---
 
-{{% cta cta_link="https://forms.office.com/r/d1Erwa40yG" cta_text="Register now!" %}}
+<p style="text-align:center">The registration portal will soon be open. Check back soon!</p>
+</br></br>
+
+
+{{% cta cta_link="#" cta_text="Open soon" %}}

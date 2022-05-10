@@ -1,26 +1,26 @@
 --- 
 widget: blank
-weight: 20
+weight: 10
 headless: true
 active: true
 
-title: "About the conference"
+title: "COBS/CCOB"
 # subtitle: "This is the subtitle"
 
 design:
-    columns: '2'
+    columns: '1'
     background:
         # image: richard-horvath-OcXxgXYucHo-unsplash_darker.png
         # image_darken: 0.5
         # image_size: cover
         # image_position: center
         # image_parallax: true
-        gradient_start: "#4F60BF"
-        gradient_end: "#1F1F26"
+        # gradient_start: "#4F60BF"
+        # gradient_end: "#1F1F26"
 
         text_color_light: true
     spacing: 
-        padding: ["100px", "20px", "100px", "20px"]
+        padding: ["100px", "100px", "100px", "100px"]
 
 advanced:
     # css_class: fullscreen

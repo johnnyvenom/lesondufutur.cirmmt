@@ -7,8 +7,8 @@ title: |
     le futur du son
 hero_media: architek2.jpg
 cta:
-  label: '**Register now**'
-  url: https://forms.office.com/r/d1Erwa40yG
+  label: '**Registration open soon**'
+  url: '#'
 # cta_alt:
 #   label: Ask a question
 #   url: https://discord.gg/z8wNYzb

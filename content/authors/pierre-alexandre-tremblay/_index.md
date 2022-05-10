@@ -10,55 +10,14 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Professor of Composition and Improvisation
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
-
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+- name: FluCoMa - Fluid Corpus Manipulation
+  url: "https://www.flucoma.org/"
+- name: University of Huddersfield
+#   url: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -68,3 +27,15 @@ highlight_name: false
 user_groups:
 - Keynote Speaker
 ---
+
+# About
+
+Pierre Alexandre Tremblay (Montréal, 1975) is a composer and a performer on bass guitar and sound processing devices, in solo and within various ensembles. He is a member of the London-based collective Loop, and his music is released on Empreintes DIGITALes and Ora.
+
+He formally studied composition with Michel Tétreault, Marcelle Deschênes, and Jonty Harrison, bass guitar with Jean-Guy Larin, Sylvain Bolduc, and Michel Donato, analysis with Michel Longtin and Stéphane Roy, studio technique with Francis Dhomont, Robert Normandeau, and Jean Piché.
+
+Pierre Alexandre is Professor in Composition and Improvisation at the University of Huddersfield (England, UK), he anchored the Fluid Corpus Manipulation project. He previously worked in popular music as producer and bassist, and has a keen interest in creative coding.
+
+# At the conference
+
+- **Keynote:** *Beyond cohabitation: towards a rich interdisciplinarity in music-technology research*
