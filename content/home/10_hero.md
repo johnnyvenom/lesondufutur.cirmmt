@@ -19,7 +19,7 @@ cta:
 #     <a class="js-github-release" href="https://github.com/wowchemy/wowchemy-hugo-themes/releases" data-repo="wowchemy/wowchemy-hugo-themes">Latest release<!-- V --></a><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy site builder for Hugo</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
 design:
   background:
-    image: richard-horvath-OcXxgXYucHo-unsplash_darker.png
+    image: richard-horvath-OcXxgXYucHo-unsplash_darker.jpg
     image_darken: 0.5
     image_parallax: false
     gradient_end: '#1F1F26'

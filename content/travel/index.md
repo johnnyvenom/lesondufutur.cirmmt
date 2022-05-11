@@ -91,7 +91,7 @@ There are a wide variety of accommodations to choose from around Montréal. Give
 
 ### Recommended hotels
 
-{{< figure src="cantlie.webp" caption="Hotel Le Cantlie Suites" >}}
+{{< figure src="cantlie.jpg" caption="Hotel Le Cantlie Suites" >}}
 
 Special rates are available at participating hotels as part of the [McGill Guest Program](https://www.mcgill.ca/accommodations/mohp/downtown). See the [website](https://www.mcgill.ca/accommodations/mohp/downtown) for a list of hotels and instructions on how to get the preferred rate. 
 
