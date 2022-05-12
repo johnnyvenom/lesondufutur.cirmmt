@@ -6,7 +6,21 @@
 main:
   # - name: Home
   #   url: home
-  #   weight: 10
+  #   weight: 5
+  - name: Activities
+    url: sessions
+    identifier: 'activities'
+    weight: 10
+    
+  # under Activities:
+  - name: By day
+    parent: 'activities'
+    url: sessions-by-day
+    weight: 10
+  - name: By type
+    parent: 'activities'
+    url: sessions-by-type
+    weight: 20
   - name: Schedule
     url: schedule
     # identifier: schedule
@@ -18,19 +32,6 @@ main:
   #   parent: schedule
   #   weight: 10    
 
-  - name: Activities
-    url: sessions
-    identifier: 'activities'
-    weight: 25
-    
-  # under Activities:
-  - name: By day
-    parent: 'activities'
-    url: sessions-by-day
-  - name: By type
-    parent: 'activities'
-    url: sessions-by-type
-    weight: 20
   # - name: 
   # - name: Panels
   #   parent: 'activities'
@@ -56,9 +57,12 @@ main:
   #   parent: 'activities'
   #   weight: 80
 
+  - name: Participants
+    url: participants
+    weight: 30
   - name: Travel
     url: travel
-    weight: 30
+    weight: 40
   # - name: Keynotes
   #   url: keynotes
   #   weight: 40
@@ -67,10 +71,7 @@ main:
   #   weight: 50
   - name: Venues
     url: venues
-    weight: 60
-  - name: Participants
-    url: participants
-    weight: 70
+    weight: 50
   - name: COBS/CCOB
     url: cobs
     weight: 80

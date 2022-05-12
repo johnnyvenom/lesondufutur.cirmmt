@@ -31,4 +31,4 @@ advanced:
   css_class: fullscreen
 ---
 
-# Hello from CIRMMT!
+<!-- # Hello from CIRMMT! -->

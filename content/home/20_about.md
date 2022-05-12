@@ -27,10 +27,8 @@ advanced:
 
 ---
 
-The Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) is organizing its first international conference, Le son du futur/Le futur du son, to take place in Montréal, May 24-27, 2022. The conference format will be different from usual settings and designed to foster exchanges and interaction among researchers and creators through different types of sessions including panels, workshops, interactive sessions in small groups and roundtables. Keynotes will be delivered by guests representing the artistic, scientific, and industrial sectors to provide cutting edge information, while three concerts will display some of the artistic outputs of CIRMMT research-creation activities. 
+The Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) is organizing its first international conference, Le son du futur/Le futur du son, to take place in Montréal, May 24-27, 2022. The conference format will be different from usual settings and designed to foster exchanges and interaction among researchers and creators through several different types of sessions. Keynotes will be delivered by guests representing the artistic, scientific, and industrial sectors to provide cutting edge information, while three concerts will display some of the artistic outputs of CIRMMT research-creation activities. 
 
- 
-
-Participants will present key elements of their research in very short formats (5 minutes) during one of the four panel sessions or during the poster session. The bulk of the conference will consist of 16 interactive sessions organized around themes that cross multiple disciplines; certain interactive session topics will be fixed, but the topics of the final sessions will remain open to be shaped around ideas and topics that emerge during the conference.  
+Composed of 1 student symposium ([COBS/CCOB]({{< relref "/cobs" >}}) on Tuesday), 4 panel sessions, 5 keynotes, 2 poster sessions, 11 interactive sessions, 3 roundtables, 2 workshops and 3 concerts, the 4-day conference will aim to foster collaborative projects through a creative approach. In lieu of a traditional setting where research is exclusively presented through lectures or poster sessions, our conference will privilege collective activities and work/interaction sessions following dense moments of knowledge sharing. 
 
 
