@@ -11,10 +11,10 @@ tags: ["Friday", "Interactive session"]
 
 | | |
 | - | - |
-| **Day:** | day |
-| **Time:** | 00:00 - 23:59 |
+| **Day:** | Friday |
+| **Time:** | 11:00 - 12:30 |
 | **Location:** | McGill University |
-| **Room:** | Tanna Schulich Hall |
+| **Room:** | C-201/Studio 22 |
 
 ## Title
 
@@ -22,7 +22,7 @@ Artificial Intelligence driving the shape of new realities: what to expect from 
 
 ## Presenter
 
-- [Antonio Crespo]({{ relref "/authors/antonio-crespo" }})
+- [Antonio Crespo]({{< relref "/authors/antonio-crespo" >}})
 
 <!--
 ## Description

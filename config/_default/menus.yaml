@@ -78,5 +78,7 @@ main:
   - name: Contact
     url: contact
     weight: 90
-
+  - name: REGISTER!
+    url: '#register'
+    weight: 100
 

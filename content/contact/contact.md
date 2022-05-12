@@ -41,19 +41,8 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: 
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
 design:
   columns: '2'
 ---
 
-To get reach CIRMMT and for general conference information, please use the methods below, and visit our website at [cirmmt.org](https://cirmmt.org). 
-
-For specific conference questions, please also consult the [Committee](../committee/) page to contact the organizers directly. 
+To reach CIRMMT and for general conference information, please use the methods below and visit our website at [cirmmt.org](https://cirmmt.org). 
