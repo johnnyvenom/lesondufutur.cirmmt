@@ -23,8 +23,8 @@ tags: ["Friday", "Interactive session"]
 
 ## Presenter
 
-- [Frédéric Marin]({{ relref "/author/frederic-marin" }})
-
+- [Frédéric Marin]({{< relref "/authors/frederic-marin" >}})
+  
 <!-- NEED ENGLISH!! 
 ## Description
 

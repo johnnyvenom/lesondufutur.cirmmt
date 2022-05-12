@@ -1,6 +1,6 @@
 ---
 
-title: "Workshop 2"
+title: "Workshop 2: Sound spatialization in MMR"
 summary: "Friday | 9:00 - 10:30 | MMR (McGill)"
 weight: 400
 tags: ["Friday", "Workshop"]

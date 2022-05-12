@@ -7,9 +7,9 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 20
 
-title: Presenters and Performers
+title: Presenters
 subtitle: "<br><br>"
 
 content:
@@ -17,11 +17,11 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Presenters
-    - Performers
+    # - Performers
 design:
   show_interests: false
   show_role: false
-  show_organizations: true
+  show_organizations: false
   show_social: false
   
 ---

@@ -1,6 +1,6 @@
 ---
 
-title: "Interactive Session 2"
+title: "Interactive Session 2: Music Psychology and Performing Musicians"
 summary: " Wednesday | 14:15 - 16:15 | TBD (UdeM)"
 weight: 241
 tags: ["Wednesday", "Interactive session"]

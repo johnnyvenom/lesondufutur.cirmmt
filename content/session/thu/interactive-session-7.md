@@ -1,9 +1,9 @@
 ---
 
-title: "Interactive Session 7"
+title: "Interactive Session 7: Together towards a global and healthier education for musicians"
 summary: "Thursday | 15:00 - 16:30 | A-832 (McGill)"
 weight: 352
-tags: ["Thursday", "Interactive sessions"]
+tags: ["Thursday", "Interactive session"]
 
 ---
 

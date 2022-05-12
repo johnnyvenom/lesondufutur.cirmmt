@@ -9,14 +9,14 @@ main:
   #   weight: 10
   - name: Schedule
     url: schedule
-    identifier: schedule
+    # identifier: schedule
     weight: 20
 
-  # Under Schedule:
-  - name: Sessions
-    url: sessions
-    parent: schedule
-    weight: 10    
+  # # Under Schedule:
+  # - name: Sessions
+  #   url: sessions
+  #   parent: schedule
+  #   weight: 10    
 
   - name: Activities
     url: sessions
@@ -24,33 +24,37 @@ main:
     weight: 25
     
   # under Activities:
-  - name: All
+  - name: By day
     parent: 'activities'
-    url: sessions
-    weight: 10
-  - name: Panels
+    url: sessions-by-day
+  - name: By type
     parent: 'activities'
+    url: sessions-by-type
     weight: 20
-  - name: Workshops
-    parent: 'activities'
-    weight: 30
-  - name: Interactive sessions
-    parent: 'activities'
-    weight: 40
-  - name: Round tables
-    parent: 'activities'
-    weight: 50
-  - name: Keynotes
-    url: keynotes
-    parent: 'activities'
-    weight: 60
-  - name: Concerts
-    url: concerts
-    parent: 'activities'
-    weight: 70
-  - name: Posters
-    parent: 'activities'
-    weight: 80
+  # - name: 
+  # - name: Panels
+  #   parent: 'activities'
+  #   weight: 20
+  # - name: Workshops
+  #   parent: 'activities'
+  #   weight: 30
+  # - name: Interactive sessions
+  #   parent: 'activities'
+  #   weight: 40
+  # - name: Round tables
+  #   parent: 'activities'
+  #   weight: 50
+  # - name: Keynotes
+  #   url: keynotes
+  #   parent: 'activities'
+  #   weight: 60
+  # - name: Concerts
+  #   url: concerts
+  #   parent: 'activities'
+  #   weight: 70
+  # - name: Posters
+  #   parent: 'activities'
+  #   weight: 80
 
   - name: Travel
     url: travel

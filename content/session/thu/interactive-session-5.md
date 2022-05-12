@@ -1,9 +1,9 @@
 ---
 
-title: "Interactive Session 5"
+title: "Interactive Session 5: EDI approaches of audio engineering and production"
 summary: "Thursday | 15:00 - 16:30 | McGill"
 weight: 350
-tags: ["Thursday", "Interactive sessions"]
+tags: ["Thursday", "Interactive session"]
 
 ---
 

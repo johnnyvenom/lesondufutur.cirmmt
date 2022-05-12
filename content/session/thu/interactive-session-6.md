@@ -1,9 +1,9 @@
 ---
 
-title: "Interactive Session 6"
+title: "Interactive Session 6: Physiological responses to music"
 summary: "Thursday | 15:00 - 16:30 | C-204 (McGill)"
 weight: 351
-tags: ["Thursday", "Interactive sessions"]
+tags: ["Thursday", "Interactive session"]
 
 ---
 

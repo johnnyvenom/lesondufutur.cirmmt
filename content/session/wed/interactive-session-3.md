@@ -1,6 +1,6 @@
 ---
 
-title: "Interactive Session 3"
+title: "Interactive Session 3: Sound Art after COVID"
 summary: " Wednesday | 14:15 - 16:15 | TBD (UdeM)"
 weight: 242
 tags: ["Wednesday", "Interactive session"]

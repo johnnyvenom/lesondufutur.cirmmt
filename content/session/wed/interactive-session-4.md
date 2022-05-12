@@ -1,6 +1,6 @@
 ---
 
-title: "Interactive session 4"
+title: "Interactive Session 4"
 summary: " Wednesday | 17:30 - 18:30 | TBD (UdeM)"
 weight: 265
 tags: ["Wednesday", "Interactive session"]

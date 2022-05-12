@@ -1,6 +1,6 @@
 ---
 
-title: "Interactive Session 1"
+title: "Interactive Session 1: Electronic Garments as Interfaces for Sound Art"
 summary: " Wednesday | 14:15 - 16:15 | TBD (UdeM)"
 weight: 240
 tags: ["Wednesday", "Interactive session"]

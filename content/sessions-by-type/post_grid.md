@@ -11,7 +11,7 @@ headless: true
 weight: 20
 
 title: 'Conference Activities'
-subtitle: ''
+subtitle: 'Filter by activity type'
 
 content:
   # Page type to display. E.g. project.
@@ -31,24 +31,20 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Tuesday/COBS
-      tag: Tuesday  
-    - name: Wednesday
-      tag: Wednesday
-    - name: Thursday
-      tag: Thursday
-    - name: Friday
-      tag: Friday
-    # - name: COBS
-    #   tag: COBS
-    # - name: Oral presentations
-    #   tag: Oral presentation
-    # - name: Keynotes
-    #   tag: Keynote
-    # - name: Posters
-    #   tag: Poster
-    # - name: Concerts
-    #   tag: Concert
+    - name: Concerts
+      tag: Concert
+    - name: Interactive sessions
+      tag: Interactive session
+    - name: Keynotes
+      tag: Keynote
+    - name: Panels and presentations
+      tag: Panel
+    - name: Posters
+      tag: Poster
+    - name: Round tables
+      tag: Round table
+    - name: Workshops
+      tag: Workshop
 
 design:
   columns: '1'
