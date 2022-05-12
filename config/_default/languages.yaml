@@ -6,17 +6,48 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# fr:
+#   contentDir: content/fr
+#   title: Le son du futur / le futur du son
+#   params:
+#     description: 'Conférence internationale sur la technologie et la recherche musicale qui se tiendra à Montréal, Canada, du 24 au 27 mai 2022.'
+#   menu:
+#     main:
+#     - name: Activités
+#       url: sessions
+#       identifier: 'activities'
+#       weight: 10
+      
+#     - name: Par jour
+#       parent: 'activities'
+#       url: sessions-by-day
+#       weight: 13
+#     - name: Par type
+#       parent: 'activities'
+#       url: sessions-by-type
+#       weight: 17
+
+#     - name: Programme
+#       url: schedule
+#       weight: 20
+#     - name: Participants
+#       url: participants
+#       weight: 30
+#     - name: Voyager
+#       url: travel
+#       weight: 40
+#     - name: Sites
+#       url: venues
+#       weight: 50
+#     - name: CCOB
+#       url: cobs
+#       weight: 80
+#     - name: Contacter
+#       url: contact
+#       weight: 90
+#     - name: ENREGISTRER!
+#       url: '#register'
+#       weight: 100
