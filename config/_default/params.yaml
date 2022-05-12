@@ -72,7 +72,7 @@ features:
   repository:
     url: 'https://github.com/johnnyvenom/lesondufutur.cirmmt'
     content_dir: content
-    branch: main
+    branch: multi-lang
   avatar:
     gravatar: false
     shape: circle

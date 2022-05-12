@@ -1,12 +1,8 @@
 ---
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
 
-# This file represents a page section.
+widget: people
 headless: true
 
-# Order that this section appears on the page.
 weight: 40
 
 
@@ -18,9 +14,11 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Keynote speakers
+
 design:
   show_interests: false
   show_role: false
   show_organizations: true
   show_social: true
+
 ---

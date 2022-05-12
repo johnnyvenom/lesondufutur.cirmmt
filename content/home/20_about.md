@@ -10,11 +10,6 @@ title: "About the conference"
 design:
     columns: '2'
     background:
-        # image: richard-horvath-OcXxgXYucHo-unsplash_darker.png
-        # image_darken: 0.5
-        # image_size: cover
-        # image_position: center
-        # image_parallax: true
         gradient_start: "#4F60BF"
         gradient_end: "#1F1F26"
 

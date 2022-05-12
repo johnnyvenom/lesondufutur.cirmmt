@@ -12,7 +12,6 @@ design:
 ---
 
 <h3 style="text-align:center">Registration for the conference is open.</h3>
-<!-- </br> -->
 <p style="text-align:center">The conference is free to attend, but space is limited!</p>
 
 </br>

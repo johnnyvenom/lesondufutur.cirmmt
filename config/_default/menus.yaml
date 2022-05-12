@@ -1,12 +1,9 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
+#   To link a homepage widget, specify the URL as a hash `#` followed by the
+#     filename of the desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  # - name: Home
-  #   url: home
-  #   weight: 5
   - name: Activities
     url: sessions
     identifier: 'activities'
@@ -16,59 +13,21 @@ main:
   - name: By day
     parent: 'activities'
     url: sessions-by-day
-    weight: 10
+    weight: 13
   - name: By type
     parent: 'activities'
     url: sessions-by-type
-    weight: 20
+    weight: 17
+
   - name: Schedule
     url: schedule
-    # identifier: schedule
     weight: 20
-
-  # # Under Schedule:
-  # - name: Sessions
-  #   url: sessions
-  #   parent: schedule
-  #   weight: 10    
-
-  # - name: 
-  # - name: Panels
-  #   parent: 'activities'
-  #   weight: 20
-  # - name: Workshops
-  #   parent: 'activities'
-  #   weight: 30
-  # - name: Interactive sessions
-  #   parent: 'activities'
-  #   weight: 40
-  # - name: Round tables
-  #   parent: 'activities'
-  #   weight: 50
-  # - name: Keynotes
-  #   url: keynotes
-  #   parent: 'activities'
-  #   weight: 60
-  # - name: Concerts
-  #   url: concerts
-  #   parent: 'activities'
-  #   weight: 70
-  # - name: Posters
-  #   parent: 'activities'
-  #   weight: 80
-
   - name: Participants
     url: participants
     weight: 30
   - name: Travel
     url: travel
     weight: 40
-  # - name: Keynotes
-  #   url: keynotes
-  #   weight: 40
-  # - name: Committee
-  #   url: committee
-  #   weight: 50
   - name: Venues
     url: venues
     weight: 50

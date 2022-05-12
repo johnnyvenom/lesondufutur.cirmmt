@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Venues"
 subtitle: ""
@@ -12,20 +11,6 @@ lastmod: 2022-05-05T16:47:18-04:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
 
 The conference will be held at two venues in beautiful Montréal Québec. On Tuesday, Thursday and Friday events will take place at the Schulich School of Music at McGill University and on Wednesday the conference will spend the day across town at the Faculty of Music at the Université de Montréal. 
