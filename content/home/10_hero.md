@@ -5,11 +5,11 @@ weight: 10
 title: |
     Le son du futur /  
     le futur du son
-hero_media: architek2.jpg
-cta:
-  label: '**Registration open soon**'
-  url: '#'
-# cta_alt:
+hero_media: "cirmmt_spatial_audio.jpg"
+# cta:
+#   label: '**Registration open soon**'
+#   url: '#'
+# # cta_alt:
 #   label: Ask a question
 #   url: https://discord.gg/z8wNYzb
 # cta_note:

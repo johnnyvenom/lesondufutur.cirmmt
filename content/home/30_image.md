@@ -18,7 +18,8 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: liveatcirmmt.jpg
+    # image: liveatcirmmt.jpg
+    image: chadabe-workshop-1.jpg
     image_darken: 0
     image_parallax: true
     image_position: center

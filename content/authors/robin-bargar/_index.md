@@ -21,9 +21,9 @@ organizations:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Keynote Speaker
+- Keynote speakers
 ---
 
 # At the conference
 
-- **Keynote:** *Where to Encode Musical Information*, with [Insook Choi]({{< relref "../insook-choi">}}) 
+- [**Keynote 3:** *"Where to Encode Musical Information"*]({{< relref "/session/wed/keynote-3.md">}}), with [Insook Choi]({{< relref "/authors/insook-choi">}})

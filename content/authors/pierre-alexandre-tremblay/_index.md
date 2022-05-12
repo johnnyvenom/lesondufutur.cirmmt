@@ -2,11 +2,9 @@
 # Display name
 title: "Pierre Alexandre Tremblay"
 
-# Username (this should match the folder name and the name on publications)
 authors:
 - "pierre-alexandre-tremblay"
 
-# Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
@@ -19,23 +17,19 @@ organizations:
 - name: University of Huddersfield
 #   url: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Keynote Speaker
+- Keynote speakers
 ---
 
 # About
 
-Pierre Alexandre Tremblay (Montréal, 1975) is a composer and a performer on bass guitar and sound processing devices, in solo and within various ensembles. He is a member of the London-based collective Loop, and his music is released on Empreintes DIGITALes and Ora.
+Pierre Alexandre Tremblay (Montréal, 1975) is a composer with a keen interest for creative coding and a performer on bass guitar and sound processing devices, in solo and within various ensembles. Commissioned and performed worldwide, his chamber music is mainly released by the label Empreintes DIGITALes. He is a member of the London-based collective Loop.
 
-He formally studied composition with Michel Tétreault, Marcelle Deschênes, and Jonty Harrison, bass guitar with Jean-Guy Larin, Sylvain Bolduc, and Michel Donato, analysis with Michel Longtin and Stéphane Roy, studio technique with Francis Dhomont, Robert Normandeau, and Jean Piché.
+He formally studied composition, bass guitar, analysis and studio production inx Montreal. He joined the University of Huddersfield in 2005, where he is now Professor of Composition and Improvisation, and leads the FluCoMa (Fluid Corpus Manipulation) project, funded by the EU’s Horizon 2020 research and innovation programme. FluCoMa instigates new musical ways of exploiting ever-growing banks of sound and gestures within the digital composition process, by bringing breakthroughs of signal decomposition DSP and machine learning to the toolset of techno-fluent computer composers, creative coders and digital artists.
 
-Pierre Alexandre is Professor in Composition and Improvisation at the University of Huddersfield (England, UK), he anchored the Fluid Corpus Manipulation project. He previously worked in popular music as producer and bassist, and has a keen interest in creative coding.
 
 # At the conference
 
-- **Keynote:** *Beyond cohabitation: towards a rich interdisciplinarity in music-technology research*
+- [**Keynote 1:** *"Beyond cohabitation: towards a rich interdisciplinarity in music-technology research"*]({{< relref "/session/tue/keynote-1.md">}})
