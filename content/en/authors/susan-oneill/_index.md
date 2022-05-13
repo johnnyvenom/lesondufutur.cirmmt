@@ -26,4 +26,4 @@ Elit exercitation eu occaecat velit ad. -->
 
 # At the conference
 
-- [**Interactive Session 8** *"Creative Later-Life in a Digital Age: Mobilizing technology for inclusive later-life musical learning, participation and creativity"*]({{< relref "/session/fri/interactive-session-8.md" >}}), with [Andrea Creech]({{< relref "/authors/amanda-creech" >}}), [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}}), and [Lee Willingham]({{ relref "/author/lee-willingham" }})
+- [**Interactive Session 8** *"Creative Later-Life in a Digital Age: Mobilizing technology for inclusive later-life musical learning, participation and creativity"*]({{< relref "/session/fri/interactive-session-8.md" >}}), with [Andrea Creech]({{< relref "/authors/amanda-creech" >}}), [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}}), and [Lee Willingham]({{< relref "/authors/lee-willingham" >}})

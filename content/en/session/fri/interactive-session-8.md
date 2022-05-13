@@ -24,8 +24,8 @@ tags: ["Friday", "Interactive session"]
 
 - [Andrea Creech]({{< relref "/authors/amanda-creech" >}})
 - [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}})
-- [Lee Willingham]({{ relref "/author/lee-willingham" }})
-- [Susan O'Neill]({{ relref "/author/susan-oneill" }})
+- [Lee Willingham]({{< relref "/authors/lee-willingham" >}})
+- [Susan O'Neill]({{< relref "/authors/susan-oneill" >}})
 
 ## Description
 

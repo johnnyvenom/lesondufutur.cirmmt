@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Ons Barnat"
+title: "Denis Martin"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "ons-barnat"
+- "denis-martin"
 
 # Role/position
 role:
@@ -26,4 +26,4 @@ Elit exercitation eu occaecat velit ad.
 
 # At the conference
 
-- [**Interactive Session 4**]({{< relref "session/wed/interactive-session-4.md">}}), with - [Caroline Traube]({{< relref "/authors/caroline-traube" >}}) and [Frédéric Léotar]({{< relref "/authors/frederic-leotar" >}})
+- [**Interactive Session 10** *"3D Music Production"*]({{< relref "/session/fri/interactive-session-10.md" >}})

@@ -22,7 +22,7 @@ tags: ["Friday", "Interactive session"]
 
 ## Presenter
 
-- [Denis Martin]({{ relref "/author/denis-crespin" }})
+- [Denis Martin]({{< relref "/authors/denis-martin" >}})
 
 <!--
 ## Description
