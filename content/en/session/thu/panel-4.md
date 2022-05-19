@@ -20,8 +20,6 @@ tags: ["Thursday", "Panel"]
 
 - CIRMMT Research Axis 4: Expanded Musical Practice
 
-<!-->
-## Presenters
+## Presenter
 
-- TBD
--->
+- [Marcelo M. Wanderley]({{< relref "/authors/marcelo-wanderley" >}})

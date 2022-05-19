@@ -18,8 +18,8 @@ tags: ["Thursday", "Panel"]
 
 ## Overview
 
-- CIRMMT Axes de Recherche 4: Expanded Musical Practice
+- CIRMMT Axe de Recherche 4 : Pratique musicale élargie
 
-## Présentateurs
+## Présentateur
 
-- à préciser
+- [Marcelo M. Wanderley]({{< relref "/authors/marcelo-wanderley" >}})

@@ -9,45 +9,45 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-# fr:
-#   contentDir: content/fr
-#   title: Le son du futur / le futur du son
-#   params:
-#     description: 'Conférence internationale sur la technologie et la recherche musicale qui se tiendra à Montréal, Canada, du 24 au 27 mai 2022.'
-#   menu:
-#     main:
-#     - name: Activités
-#       url: sessions
-#       identifier: 'activities'
-#       weight: 10
+fr:
+  contentDir: content/fr
+  title: Le son du futur / le futur du son
+  params:
+    description: 'Conférence internationale sur la technologie et la recherche musicale qui se tiendra à Montréal, Canada, du 24 au 27 mai 2022.'
+  menu:
+    main:
+    - name: Activités
+      url: sessions
+      identifier: 'activities'
+      weight: 10
       
-#     - name: Par jour
-#       parent: 'activities'
-#       url: sessions-by-day
-#       weight: 13
-#     - name: Par type
-#       parent: 'activities'
-#       url: sessions-by-type
-#       weight: 17
+    - name: Par jour
+      parent: 'activities'
+      url: sessions-by-day
+      weight: 13
+    - name: Par type
+      parent: 'activities'
+      url: sessions-by-type
+      weight: 17
 
-#     - name: Programme
-#       url: schedule
-#       weight: 20
-#     - name: Participants
-#       url: participants
-#       weight: 30
-#     - name: Voyager
-#       url: travel
-#       weight: 40
-#     - name: Sites
-#       url: venues
-#       weight: 50
-#     - name: CCOB
-#       url: cobs
-#       weight: 80
-#     - name: Contacter
-#       url: contact
-#       weight: 90
-#     - name: ENREGISTRER
-#       url: '#register'
-#       weight: 100
+    - name: Programme
+      url: schedule
+      weight: 20
+    - name: Conférenciers
+      url: participants
+      weight: 30
+    - name: Voyager
+      url: travel
+      weight: 40
+    - name: Sites
+      url: venues
+      weight: 50
+    - name: CCOB
+      url: cobs
+      weight: 80
+    - name: Contacter
+      url: contact
+      weight: 90
+    - name: ENREGISTRER
+      url: '#register'
+      weight: 100

@@ -30,7 +30,7 @@ content:
       tag: Interactive session
     - name: Discours liminaires
       tag: Keynote
-    - name: Panels et présentations
+    - name: Panels
       tag: Panel
     - name: Affiches
       tag: Poster

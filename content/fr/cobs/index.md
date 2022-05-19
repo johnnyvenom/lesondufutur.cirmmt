@@ -1,5 +1,5 @@
 ---
-title: "COBS/CCOB"
+title: "Colloque étudiant CIRMMT-OICRM-BRAMS (CCOB)"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,9 +28,9 @@ image:
 projects: []
 ---
 
-**Le premier jour de la conférence est composé des comités étudiants CCOB/COBS.**
+**Le premier jour de la conférence est composé des comités étudiants CCOB.**
 
-Pour plus d'information, veuillez visiter le CCOB/COBS site-web: http://www.ccob-cobs.org/
+Pour plus d'information, veuillez visiter le CCOB site-web: http://www.ccob-cobs.org/
 
 ## À propos de CCOB
 

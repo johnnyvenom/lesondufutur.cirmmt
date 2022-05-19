@@ -30,7 +30,7 @@ content:
       tag: Interactive session
     - name: Keynotes
       tag: Keynote
-    - name: Panels and presentations
+    - name: Panels
       tag: Panel
     - name: Posters
       tag: Poster

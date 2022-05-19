@@ -19,10 +19,13 @@ tags: ["Wednesday", "Panel"]
 
 ## Overview
 
-- Day 2 introduction
+- Conference introduction
 - CIRMMT Research Axis 1: Instruments, devices & systems
 
 ## Presenters
 
-- [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}})
-- [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}})
+<!-- - [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}})
+- [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}}) -->
+- [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}})
+- [Nathalie Fernando]({{< relref "/authors/nathalie-fernando" >}})
+- [Jéremie Voix]({{< relref "/authors/jeremie-voix" >}})

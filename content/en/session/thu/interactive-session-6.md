@@ -23,11 +23,11 @@ tags: ["Thursday", "Interactive session"]
 ## Presenters
 
 - [Suresh Krishna]({{< relref "/authors/suresh-krishna" >}}) (host)
-- Fabrice Marandola
+- [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}})
 - Floris van Vugt
 - Craig Turner
 - Simone Dalla Bella
-- Jéremie Voix
+- [Jéremie Voix]({{< relref "/authors/jeremie-voix" >}})
 - Mickael Deroche
 
 

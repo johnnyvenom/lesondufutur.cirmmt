@@ -7,7 +7,7 @@ authors:
 - "philippe-aubert-gauthier"
 
 # Role/position
-role:
+role: Professeur et directeur associé, recherche artistique du CIRMMT
 
 # Organizations/Affiliations
 organizations: 
@@ -27,4 +27,4 @@ Elit exercitation eu occaecat velit ad.
 
 # À la conférence
 
-- [**sAtelier 2:** *"Expansion de la spatialisation sonore grâce aux capacités acoustiques virtuelles du MMR"*]({{< relref "/session/fri/workshop-2.md" >}})
+- [**Atelier 2:** *"Expansion de la spatialisation sonore grâce aux capacités acoustiques virtuelles du MMR"*]({{< relref "/session/fri/workshop-2.md" >}})

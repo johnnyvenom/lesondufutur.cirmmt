@@ -48,13 +48,13 @@ draft: false
 | 11h30-12h30 | [Panel: RA2]({{< relref "/session/wed/panel-2.md" >}}) | *à préciser* | G. Boutard |
 | 12h30-14h | *Déjeuner*           | *Foyer* |
 | 14h-14h45 | [Discours liminaire 3]({{< relref "/session/wed/keynote-3.md" >}}) | B421 | Choi/Bargar |
-| 14h45-16h15 | [Session interactive 1]({{< relref "/session/wed/interactive-session-1.md" >}}) | *à préciser* | J. Berzowska |
-|             | [Session interactive 2]({{< relref "/session/wed/interactive-session-2.md" >}}) | *à préciser* | M. Schutz |
-|             | [Session interactive 3]({{< relref "/session/wed/interactive-session-3.md" >}}) | *à préciser* | C. Guastavino |
+| 14h45-16h15 | [Interactive 1]({{< relref "/session/wed/interactive-session-1.md" >}}) | *à préciser* | J. Berzowska |
+|             | [Interactive 2]({{< relref "/session/wed/interactive-session-2.md" >}}) | *à préciser* | M. Schutz |
+|             | [Interactive 3]({{< relref "/session/wed/interactive-session-3.md" >}}) | *à préciser* | C. Guastavino |
 | *16h15-16h45* | *Pause café*    | *à préciser* |
 | 16h45-17h30 | [Table ronde 1]({{< relref "/session/wed/round-table-1.md" >}}) | B421 |
 | 17h30-18h30 | [Atelier 1]({{< relref "/session/wed/workshop-1.md" >}})        | B-187 (Spat-GRIS) | Frisoli/Giannini |
-|             | [Session interactive 4 ]({{< relref "/session/wed/interactive-session-4.md" >}}) | *à préciser* | Barnat/Traube/Léotar |
+|             | [Interactive 4 ]({{< relref "/session/wed/interactive-session-4.md" >}}) | *à préciser* | Barnat/Traube/Léotar |
 | *18h30-20h* | *Aperitif/dîner* | *Foyer* |
 | 20h-21h30    | [Concert 2]({{< relref "/session/wed/concert-2.md" >}}) | Claude Champagne  | Nouvel Ensemble Moderne | 
 |             |                   |                   | SIXTRUM/Thibaut/Boucher |
@@ -76,9 +76,9 @@ draft: false
 | 11h45-12h45 | [Panel: RA4]({{< relref "/session/thu/panel-4.md" >}}) | Tanna Hall |   | 
 | *12h45-14h15* | *Déjeuner* | *Wirth Lobby* |   |
 | 14h15-15h | [Discours liminaire 5]({{< relref "/session/thu/keynote-5.md" >}}) | Tanna Hall |  L.X. Buffoni |
-| 15h-16h30 | [Session interactive 5]({{< relref "/session/thu/interactive-session-5.md" >}}) | C-201 | A. Pras |
-|             | [Session interactive 6]({{< relref "/session/thu/interactive-session-6.md" >}}) | C-204 | S.Krishna |
-|             | [Session interactive 7]({{< relref "/session/thu/interactive-session-7.md" >}}) | A-832 | I. Cossette |
+| 15h-16h30 | [Interactive 5]({{< relref "/session/thu/interactive-session-5.md" >}}) | C-201 | A. Pras |
+|             | [Interactive 6]({{< relref "/session/thu/interactive-session-6.md" >}}) | C-204 | S.Krishna |
+|             | [Interactive 7]({{< relref "/session/thu/interactive-session-7.md" >}}) | A-832 | I. Cossette |
 | *16h30-17h* | *Pause café* | *Wirth Lobby* |   |
 | 17h-17h45 | [Table ronde 2]({{< relref "/session/thu/round-table-2.md" >}}) | Tanna Hall |   |
 | ------ | ------ | ------ | ------ |
@@ -95,11 +95,11 @@ draft: false
 |  |  |  |  |
 | *8h30-9h* | *Table d'accueil* | *Wirth Lobby* |
 | 9h-10h30 | [Atelier 2]({{< relref "/session/fri/workshop-2.md" >}}) | MMR | P.A. Gauthier  |
-|            | [Session interactive 8]({{< relref "/session/fri/interactive-session-8.md" >}}) | C-201 | A. Creech   |
-|            | [Session interactive 9]({{< relref "/session/fri/interactive-session-9.md" >}}) | C-204 | F. Marin |
+|            | [Interactive 8]({{< relref "/session/fri/interactive-session-8.md" >}}) | C-201 | A. Creech   |
+|            | [Interactive 9]({{< relref "/session/fri/interactive-session-9.md" >}}) | C-204 | F. Marin |
 | *10h30-11h* | *Pause café* | *Wirth Lobby* |
-| 11h-12h30 | [Session interactive 10]({{< relref "/session/fri/interactive-session-10.md" >}}) | C 201/Studio 22 | D. Martin |
-|             | [Session interactive 11]({{< relref "/session/fri/interactive-session-11.md" >}}) | C-204 | A. Crespo |
+| 11h-12h30 | [Interactive 10]({{< relref "/session/fri/interactive-session-10.md" >}}) | C 201/Studio 22 | D. Martin |
+|             | [Interactive 11]({{< relref "/session/fri/interactive-session-11.md" >}}) | C-204 | A. Crespo |
 | *12h30-14h* | *Déjeuner* | *Lobby* |
 | 14h-16h | [Table ronde 3 & Conclusion]({{< relref "/session/fri/round-table-3.md" >}}) | Tanna Hall |
 
