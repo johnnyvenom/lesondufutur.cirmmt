@@ -22,7 +22,7 @@ tags: ["Wednesday", "Keynote"]
 
 ## Title
 
-- "Transfert de formes / Transfert de sens (Transfer of forms, transfer of meaning)" <!-- need English translation -->
+- "Transfert de formes / Transfert de sens (Transfer of forms, transfer of meaning)"
 
 ## Description <!-- need English translation -->
 

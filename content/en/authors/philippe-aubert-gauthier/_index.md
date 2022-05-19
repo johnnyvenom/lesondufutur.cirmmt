@@ -19,10 +19,12 @@ organizations:
 user_groups:
 - Presenters
 ---
+
 <!-- 
 # About
 
-Elit exercitation eu occaecat velit ad. -->
+Elit exercitation eu occaecat velit ad. 
+-->
 
 # At the conference
 

@@ -20,9 +20,11 @@ user_groups:
 - Presenters
 ---
 
+<!--
 # About
 
 Elit exercitation eu occaecat velit ad.
+-->
 
 # At the conference
 

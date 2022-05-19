@@ -4,7 +4,7 @@ title: "Panel: Research Axis 2"
 summary: "Wednesday | 11:30 - 12:30 | TBD (UdeM)"
 
 weight: 220
-tags: ["Wednesday", "Oral presentation", "Panel"]
+tags: ["Wednesday", "Panel"]
 
 ---
 

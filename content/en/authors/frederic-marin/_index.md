@@ -20,13 +20,9 @@ user_groups:
 - Presenters
 ---
 
-<!-- NEED ENGLISH
 # About
-Chercheur au laboratoire biomécanique et bioingénierie (BMBI) de l'UTC, Frédéric Marin explore la biomécanique des mouvements du corps humain. 
-Côté clinique, il vise à optimiser l'évaluation fonctionnelle des patients. Il travaille ainsi sur la biomécanique du visage, notamment la reprise fonctionnelle après une paralysie faciale ou après une transplantation du visage.
-En ergonomie, le chercheur étudie entre autres les mouvements qui peuvent être source ou conséquence de troubles musculosquelettiques, contribuant entre autres à la conception d’un gant haptique permettant d'assembler les pièces virtuelles d'une maquette numérique.
-Troisième domaine d'investigation : le mouvement en tant que vecteur culturel. Aux côtés d'ethnomusicologues, il mesure la gestuelle de musiciens experts et non experts de différents groupes ethnoculturels et d’observer les variations entre , afin de mieux comprendre ce qui différencie les virtuoses des autres et en quoi leur jeu (par exemple, leur manière de poser les doigts sur l'instrument) peut varier selon les cultures.
--->
+
+Researcher at the Biomechanics and Bioengineering Laboratory (BMBI) of the UTC, Frédéric Marin explores the biomechanics of human body movements. On the clinical side, he aims to optimize the functional evaluation of patients. He works on the biomechanics of the face, in particular the functional recovery after a facial paralysis or after a face transplantation. In ergonomics, the researcher studies, among other things, the movements that can be a source or consequence of musculoskeletal disorders, contributing to the design of a haptic glove that allows the assembly of virtual parts of a digital model. His third area of investigation: movement as a cultural vector. Alongside ethnomusicologists, he measures the gestures of expert and non-expert musicians from different ethno-cultural groups and observes the variations between them, in order to better understand what differentiates virtuosos from others and how their playing (e.g., the way they place their fingers on the instrument) can vary according to culture.
 
 # At the conference
 

@@ -3,10 +3,10 @@
 widget: people
 headless: true
 
-weight: 40
+# Order that this section appears on the page.
+weight: 10
 
-
-title: Keynote speakers
+title: Orateurs principaux
 subtitle: "<br><br>"
 
 content:
@@ -19,6 +19,6 @@ design:
   show_interests: false
   show_role: false
   show_organizations: true
-  show_social: true
+  show_social: false
 
 ---

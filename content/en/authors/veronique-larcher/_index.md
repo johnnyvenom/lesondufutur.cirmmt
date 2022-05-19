@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Véronique Larcher"
+active: false
 
 # Username (this should match the folder name and the name on publications)
 authors:

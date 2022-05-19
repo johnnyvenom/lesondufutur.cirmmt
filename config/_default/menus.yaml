@@ -31,13 +31,13 @@ main:
   - name: Venues
     url: venues
     weight: 50
-  - name: COBS/CCOB
+  - name: COBS
     url: cobs
     weight: 80
   - name: Contact
     url: contact
     weight: 90
-  - name: REGISTER!
+  - name: REGISTER
     url: '#register'
     weight: 100
 

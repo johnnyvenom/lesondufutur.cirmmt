@@ -18,7 +18,7 @@ tags: ["COBS", "Keynote", "Tuesday"]
 
 ## Speaker
 
-- [Pierre Alexandre Tremblay]({{< relref "/authors/pierre-alexandre-tremblay" >}})
+- [Pierre-Alexandre Tremblay]({{< relref "/authors/pierre-alexandre-tremblay" >}})
 
 ## Title
 

@@ -20,8 +20,6 @@ tags: ["COBS", "Concert", "Tuesday"]
 
 The first concert will be an improv@CIRMMT event, part of a long-running student-run series presenting improvised music and open-form compositions which engage with digital musical instruments, human-computer interaction, and other new musical technologies.
 
-<!--
-## Presenters
+## More information
 
-- List presenters/etc.
--->
+- Visit the COBS website for for complete concert schedule and information: http://www.ccob-cobs.org/2022/concert-improv-cirmmt

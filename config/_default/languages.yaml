@@ -48,6 +48,6 @@ en:
 #     - name: Contacter
 #       url: contact
 #       weight: 90
-#     - name: ENREGISTRER!
+#     - name: ENREGISTRER
 #       url: '#register'
 #       weight: 100

@@ -3,7 +3,7 @@
 title: "COBS Session 2: Student presentations"
 summary: "Tuesday | 10:00 - 11:00 | Tanna Hall (McGill)"
 weight: 20
-tags: ["COBS", "Panel", "Tuesday"]
+tags: ["COBS", "Tuesday"]
 
 ---
 
@@ -22,4 +22,4 @@ Second session of panel presentations from CIRMMT, OICRM and BRAMS student membe
 
 ## More info
 
-- See the COBS/CCOB website for list of presenters: http://www.ccob-cobs.org/
+- See the COBS website for list of presenters: http://www.ccob-cobs.org/

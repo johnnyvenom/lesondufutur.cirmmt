@@ -18,7 +18,7 @@ tags: ["Wednesday", "Workshop"]
 
 ## Overview
 
-Spatialisation sonore immersive: SpatGRIS  
+Immersive sound spatialization with SpatGRIS  
 
 ## Presenters
 

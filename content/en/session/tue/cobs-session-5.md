@@ -3,7 +3,7 @@
 title: "COBS Session 5: Student presentations"
 summary: "Tuesday | 15:30 - 16:30 | Tanna Hall (McGill)"
 weight: 60
-tags: ["COBS", "Panel", "Tuesday"]
+tags: ["COBS", "Tuesday"]
 
 ---
 
@@ -22,4 +22,4 @@ Fifth session of panel presentations from CIRMMT, OICRM and BRAMS student member
 
 ## More info
 
-- See the COBS/CCOB website for list of presenters: http://www.ccob-cobs.org/
+- See the COBS website for list of presenters: http://www.ccob-cobs.org/

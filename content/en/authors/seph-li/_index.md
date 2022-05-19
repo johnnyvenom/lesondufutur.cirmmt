@@ -20,10 +20,12 @@ user_groups:
 - Performers
 ---
 
+<!--
 # About
 
 Elit exercitation eu occaecat velit ad.
+--> 
 
 # At the conference
 
-- [**session** *"title"*](#)
+- [**Concert 3:** *"live@CIRMMT"*]({{< relref "/session/thu/concert-3.md" >}})

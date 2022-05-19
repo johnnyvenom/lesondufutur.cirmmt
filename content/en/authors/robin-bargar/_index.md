@@ -24,6 +24,12 @@ user_groups:
 - Keynote speakers
 ---
 
+<!--
+# About
+
+Aute excepteur enim mollit labore duis laboris eu aliqua deserunt ex sint elit.
+-->
+
 # At the conference
 
 - [**Keynote 3:** *"Where to Encode Musical Information"*]({{< relref "/session/wed/keynote-3.md">}}), with [Insook Choi]({{< relref "/authors/insook-choi">}})

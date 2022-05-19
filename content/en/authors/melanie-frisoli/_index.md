@@ -27,5 +27,5 @@ Elit exercitation eu occaecat velit ad. -->
 
 # At the conference
 
-- [**Workshop 1:** *"Immersive sound spatialization with SpatGRIS"*]({{< relref "/session/wed/workshop-1.md" >}})
+- [**Workshop 1:** *"Immersive sound spatialization with SpatGRIS"*]({{< relref "/session/wed/workshop-1.md" >}}) with [Nicola Giannini]({{< relref "/authors/nicola-giannini" >}})
 - [**Concert 3:** *"live@CIRMMT"*]({{< relref "/session/thu/concert-3.md" >}})

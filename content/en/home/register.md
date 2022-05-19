@@ -3,7 +3,7 @@ title:
 subtitle:
 widget: blank
 headless: true
-weight: 50
+weight: 27
 
 title: Registration
 

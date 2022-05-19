@@ -21,8 +21,6 @@ tags: ["COBS", "poster","Tuesday"]
 
 Round one of poster presentations by emerging student researchers. 
 
-<!--
-## Presenters
+## More info
 
-- coming soon
--->
+- See the COBS website for list of posters: http://www.ccob-cobs.org/

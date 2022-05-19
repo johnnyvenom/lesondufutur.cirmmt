@@ -20,12 +20,10 @@ user_groups:
 - Presenters
 ---
 
-<!-- 
 # About
 
-Elit exercitation eu occaecat velit ad.
--->
+Suresh Krishna is an Associate Professor in the Department of Physiology at McGill. He completed his medical training at the All-India Institute of Medical Sciences, New Delhi and then a PhD in neural science at NYU. His PhD thesis involved the measuring and modeling of neuronal responses to amplitude-modulated sounds. Since then, he has worked a lot on eye-tracking, visual attention and eye-movements. Among many other things, Suresh is actively interested in all topics related to musical structure and its perception and production by the human mind, brain and body.
 
 # At the conference
 
-- [**Interactive session 6** *"Physiological responses to music"*]({{< relref "/session/thu/interactive-session-6.md" >}})
+- [**Interactive session 6** *"Music, embodied and embrained"*]({{< relref "/session/thu/interactive-session-6.md" >}}) with Fabrice Marandola, Floris van Vugt, Craig Turner, Simone Dalla Bella, Jéremie Voix, and Mickael Deroche

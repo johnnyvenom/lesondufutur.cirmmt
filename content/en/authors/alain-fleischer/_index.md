@@ -22,9 +22,9 @@ user_groups:
 - Keynote speakers
 ---
 
-# About <!-- need English translation! -->
+# About
 
-Après des études de lettres, linguistique, sémiologie et anthropologie à la Sorbonne et à l'École des Hautes Études en Sciences Sociales, il a enseigné à l'Université de Paris III, à l'Université du Québec à Montréal, et dans diverses écoles d’art, de photographie et de cinéma (dont l’IDHEC/FEMIS à Paris). Lauréat du Prix de Rome, il a séjourné à la Villa Médicis de 1985 à 87. Sur mission du Ministère de la Culture, a conçu et dirige actuellement Le Fresnoy – Studio national des arts contemporains. Cinéaste, écrivain, plasticien et photographe, il est l’auteur de trois cent cinquante films dans des genres aussi divers que le long métrage de fiction, le cinéma expérimental ou le documentaire d'art, et a rédigé une cinquantaine d’ouvrages de littérature (romans, recueils de nouvelles, essais sur la photographie et sur le cinéma), tandis que son œuvre photographique et ses installations sont régulièrement exposées à travers le monde.
+After studying literature, linguistics, semiology and anthropology at the Sorbonne and the École des Hautes Études en Sciences Sociales, Alain Fleischer taught at the University of Paris III, the University of Quebec in Montreal, and in various schools of art, photography and cinema (including IDHEC/FEMIS in Paris). Winner of the Prix de Rome, he stayed at the Villa Medici from 1985 to 1987. On a mission from the Ministry of Culture, he designed and currently directs Le Fresnoy - Studio national des arts contemporains. Filmmaker, writer, visual artist and photographer, he is the author of three hundred and fifty films in genres as diverse as full feature fiction, experimental cinema and art documentaries, and has written some fifty works of literature (novels, collections of short stories, essays on photography and cinema), while his photographic work and installations are regularly exhibited around the world.
 
 # At the conference
 

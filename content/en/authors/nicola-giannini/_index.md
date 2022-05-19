@@ -20,10 +20,12 @@ user_groups:
 - Presenters
 ---
 
+<!--
 # About
 
 Elit exercitation eu occaecat velit ad.
+-->
 
 # At the conference
 
-- [**session** *"title"*](#)
+- [**Workshop 1:** *"Immersive sound spatialization with SpatGRIS"*]({{< relref "/session/wed/workshop-1.md" >}}) with [Melanie Frisoli]({{< relref "/authors/melanie-frisoli" >}})
