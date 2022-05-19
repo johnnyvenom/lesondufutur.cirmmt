@@ -23,12 +23,18 @@ tags: ["Friday", "Interactive session"]
 ## Presenters
 
 - [Andrea Creech]({{< relref "/authors/amanda-creech" >}})
-- [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}})
+<!-- - [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}})
 - [Lee Willingham]({{< relref "/authors/lee-willingham" >}})
-- [Susan O'Neill]({{< relref "/authors/susan-oneill" >}})
+- [Susan O'Neill]({{< relref "/authors/susan-oneill" >}}) -->
+- Aaron Liu-Rosenbaum
+- Angelina Lynne
+- Richard Barham
+- Graylen Howard
+- Mariane Generale
+- Aimee Gaudette
+- Sebastien Boucher
+- Sasha Judelson 
 
 ## Description
 
-This panel focuses on how technology may be mobilized in order to maximize equitable access in later life to creative musical expression and learning amongst older adults. It aims to foster inclusive pedagogical approaches that exploit technology to support lifelong learning and creative expression, and will be based on previous research that will serve as a springboard to the group session.
-
-Positioned within gerontechnology (concerned with the role of technology for enhancing later life), our participatory action research (PAR) was organised around ten case study later life contexts. Results have revealed older adults’ openness to exploration of technology as a vehicle for creative expression through collaborative, exploratory musical activities. Moments of significant interpersonal connection through music were mediated by a range of music technologies. Participants demonstrated the capacity for creative expression and musical development using iPad Apps, electronic instruments, motion sensor technologies, and online platforms.
+This session focuses on critical issues concerned with creativity in later life, focusing on the spaces and technologies that may be mobilized in order to maximize equitable to creative musical expression and learning. The session will include research examples and discussion organized around the themes of connection, creativity, quality of life, lifelong learning and musical development. Positioned within theoretical field concerned with quality of life, critical geragogy, and gerontechnology (concerned with role of technology for enhancing later life), the session will draw upon participatory case studies concerned creativity experienced through music-making in later life. Research findings within the case studies were generated through structured interviews, QoL measures, focus groups, and video observations. Results have highlighted older adults’ openness to exploration of a range of technologies as vehicles for creative expression through collaborative, exploratory musical activities. The case studies demonstrate moments of significant interpersonal connection, personal meaning-making, and musical learning. Notwithstanding persistent challenges associated with a discourse of ‘I am not musical’ and youth-centred technologies, the case studies have demonstrated the capacity for musical expressivity and development using iPad Apps, electronic instruments, motion sensor technologies, and online platforms. The study has implications for furthering inclusive pedagogical approaches that exploit technology to support lifelong learning and creative expression.  

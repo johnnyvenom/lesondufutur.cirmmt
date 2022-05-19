@@ -18,7 +18,7 @@ tags: ["Thursday", "COBS", "Poster"]
 
 ## Aperçu
 
-Deuxième session pour les présentation de posters d'étudiants-chercheurs prometteurs en devenir
+Deuxième ronde des présentations d'affiches par des étudiants chercheurs émergents.
 
 ## Plus d'informations
 

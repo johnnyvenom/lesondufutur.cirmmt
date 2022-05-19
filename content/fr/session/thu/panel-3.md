@@ -18,7 +18,7 @@ tags: ["Thursday", "Panel"]
 
 ## Overview
 
-- CIRMMT Axes de Recherche 3: Cognition, perception and movement
+- CIRMMT Axes de Recherche 3: Cognition, perception et mouvement
 
 ## Présentateurs
 

@@ -1,6 +1,6 @@
 ---
 
-title: "Interactive Session 5: EDI approaches of audio engineering and production"
+title: "Interactive Session 5: Feminist perspectives to enhance global partnerships"
 summary: "Thursday | 15:00 - 16:30 | McGill"
 weight: 350
 tags: ["Thursday", "Interactive session"]
@@ -18,7 +18,7 @@ tags: ["Thursday", "Interactive session"]
 
 ## Title
 
-- EDI approaches of audio engineering and production to enhance music technology partnerships
+- Feminist perspectives to enhance global audio and music partnerships
 
 ## Presenter
 
@@ -26,4 +26,4 @@ tags: ["Thursday", "Interactive session"]
 
 ## Description
 
-Based on an overview of recent and on-going projects that I have carried out with CIRMMT members, I will invite the session participants to consider three directions for potential collaborations that could benefit from my expertise. First, I would like to focus on the impact of involving non-academic professional musicians coming from diverse cultural backgrounds in partnerships that aim at analysing their creative processes and/or designing technology that could best meet their artistic vision and social identity (Pras et al., 2021). Second, the purpose of the exchanges will be to bridge gaps between audio engineering and music technology to develop useful applications with a high level of sound quality (Bauer et al., forthcoming). Last, I will encourage attendees to learn and apply feminist and de-colonizing theories to the framework and methods of studies whose fields and disciplines are rooted in patriarchal structures (Brooks et al., 2021) and/or European concepts of modernity and innovation.
+Drawing upon Cowan (1987)’s emphasis on the user to determine the success or failure of technologies, this session will engage researchers to reflect upon the need to involve more non-academic touring musicians and renown sound engineers/producers coming from diverse cultural backgrounds in empirical and practice-based projects. One focus of the exchanges will be to bridge gaps between the fields of audio engineering and music technology to develop experimental procedures and design processes that are relevant to music industry practitioners in terms of sound quality, artistic vision, and social identity. When appropriate, I will give examples of theoretical frameworks, approaches, and methodologies that were applied to conduct recent studies, some of them with CIRMMT members*, to successfully bridge these gaps (Bauer et al., in press; Pras et al., 2021) and challenge the patriarchal structures (Brooks et al., 2021; McNally & Pras, 2021) and European concepts of modernity and innovation (Olivier & Pras, forthcoming) that rule our fields. Eventually, we will discuss the feasibility, impact, and equity, diversity and inclusion considerations of collaborative ideas for international and interdisciplinary partnerships that will arise during the session.  

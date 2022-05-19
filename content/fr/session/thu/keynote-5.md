@@ -22,10 +22,11 @@ tags: ["Thursday", "Keynote"]
 
 ## Titre
 
-- "The Future of Interactive Audio"
+- "La futur du son interactif"
 
 <!--
 ## Description
 
 Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat aute exercitation mollit officia sint nulla reprehenderit elit. Sunt tempor incididunt qui sunt ipsum. Lorem anim veniam nisi excepteur. Veniam ullamco aliquip incididunt Lorem magna laboris et sit nulla aliqua.
 -->
+ 

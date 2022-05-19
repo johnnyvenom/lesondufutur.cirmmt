@@ -18,7 +18,7 @@ tags: ["Thursday", "Panel"]
 
 ## Overview
 
-- CIRMMT Axe de Recherche 4 : Pratique musicale élargie
+- CIRMMT Axe de Recherche 4 : Pratique musicale étendu
 
 ## Présentateur
 

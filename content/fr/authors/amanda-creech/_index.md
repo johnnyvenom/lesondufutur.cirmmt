@@ -28,4 +28,4 @@ Dr Andrea Creech est professeure de pédagogie musicale et doyenne associée des
 
 # À la conférence
 
-- [**Session interactive 8** *"La créativité des aînés à l'ère numérique : Mobiliser la technologie pour l'apprentissage musical, la participation et la créativité des personnes âgées"*]({{< relref "/session/fri/interactive-session-8.md" >}}), with [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}}), [Lee Willingham]({{< relref "/authors/lee-willingham" >}}), and [Susan O'Neill]({{< relref "/authors/susan-oneill" >}})
+- [**Session interactive 8** *"La créativité des aînés à l'ère numérique : Mobiliser la technologie pour l'apprentissage musical, la participation et la créativité des personnes âgées"*]({{< relref "/session/fri/interactive-session-8.md" >}})

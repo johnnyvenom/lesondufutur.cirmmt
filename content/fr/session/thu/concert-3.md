@@ -24,7 +24,7 @@ tags: ["Thursday", "Concert"]
 - **[Jason Noble]({{< relref "/authors/jason-noble" >}})** *"Freeze - For augmented drum kit"* [premiere]
   - **performed by:** [Martin Daigle]({{< relref "/authors/martin-daigle" >}}) (percussion), [Edu Meneses]({{< relref "/authors/edu-meneses" >}}) (electronics & mapping)
 - **Xue Han** *"en passant"* [premiere]
-  - **performed by:** [Martin Daigle]({{< relref "/authors/martin-daigle" >}}) (percussion), [Seph Li]({{< relref "/authors/seph-li" >}}) (visual artist)
+  - **réalisé par :** [Martin Daigle]({{< relref "/authors/martin-daigle" >}}) (percussion), [Seph Li]({{< relref "/authors/seph-li" >}}) (visual artist)
 
 ## Plus d'informations
 

@@ -18,5 +18,6 @@ design:
   show_role: false
   show_organizations: false
   show_social: false
-  
+advanced:
+    css_style: "img {display: none;}"
 ---

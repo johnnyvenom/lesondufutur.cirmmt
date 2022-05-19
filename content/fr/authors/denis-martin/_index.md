@@ -20,11 +20,9 @@ user_groups:
 - Presenters
 ---
 
-<!--
 # À propos
 
-Elit exercitation eu occaecat velit ad.
--->
+Denis Martin est actif en tant que chercheur, chargé de cours et ingénieur du son. Il fournit du support dans l'analyse de données statistiques à ses collègues tandis que son propre travail se concentre sur la perception, le fonctionnement et la conception des compresseurs. Il enseigne des cours à l'Université McGill dans le domaine de l'enregistrement sonore et offre des ateliers de production audio et vidéo aux musiciens. En tant qu'ingénieur du son indépendant, il se spécialise dans deux categories : l'enregistrement de musique classique occidentale contemporaine et le mixage et le ‘mastering’  de musique populaire canadienne.
 
 # À la conférence
 

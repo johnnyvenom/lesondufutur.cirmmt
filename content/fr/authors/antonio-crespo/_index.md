@@ -20,12 +20,11 @@ user_groups:
 - Presenters
 ---
 
-<!-- 
 # À propos
 
-Elit exercitation eu occaecat velit ad. 
--->
+Dr. Antonio Crespo is the Director of the Musitechnic Community and Research Center (MCRC), the Director of Programs of the Musitechnic College, and member of the DreamerGate R&D Enterprises Inc. Board of Directors. Dr. Crespo has been conducting AI related research since 2008, and throughout his professional and academic careers he had opportunities to found research labs, to promote and support scientific events, as well as to manage the development and implementation of complex systems. He holds a PhD in Information & Systems Engineering, an MSc in Computer Science, a BSc in Social Sciences (Sociology and Political Science), and a BSc in Aeronautical Sciences. Dr. Crespo’s experience within education covers various levels: he worked as member of the Westmount High School Governing Body, took part of English Montreal School Board committees, he is currently an expert of the Québec’s “Commission d’évaluation de l’enseignement collégial”, and he held a Graduate Science Teaching and Learning Fellowship from Concordia University. 
+
 
 # À la conférence
 
-- [**Session interactive 11** *"L'intelligence artificielle comme moteur de nouvelles réalités"*]({{< relref "/session/fri/interactive-session-11.md" >}})
+- [**Session interactive 11** *"Artificial Intelligence driving the shape of new realities: what to expect from the music in the Metaverse Era"*]({{< relref "/session/fri/interactive-session-11.md" >}})

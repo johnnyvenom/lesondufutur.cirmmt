@@ -20,13 +20,10 @@ user_groups:
 - Presenters
 ---
 
-<!-- 
 # About
 
-Elit exercitation eu occaecat velit ad.
--->
+Director of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT - 2015-2020) and of the Music Performance and Body Lab (MPBL), Isabelle Cossette's research and teaching, at the Schulich School of Music at McGill University, centres around performance science. Her aims include fostering the development of evidence-based pedagogies through the study of the performer-instrument interaction, its biomechanical and expressive aspects, as well as looking into the health benefits and challenges of music-making. Her multidisciplinary training (flute and respiratory mechanics) and international collaborations led her to publish in journals such as Respiratory Physiology and Neurobiology and Acta Acustica.  
 
 # At the conference
 
 - [**Interactive session 7** *"Together towards a global and healthier education for musicians"*]({{< relref "/session/thu/interactive-session-7.md" >}})
-- [**Interactive Session 8** *"Creative Later-Life in a Digital Age: Mobilizing technology for inclusive later-life musical learning, participation and creativity"*]({{< relref "/session/fri/interactive-session-8.md" >}}), with [Andrea Creech]({{< relref "/authors/amanda-creech" >}}), Lee Willingham, and Susan O'Neill

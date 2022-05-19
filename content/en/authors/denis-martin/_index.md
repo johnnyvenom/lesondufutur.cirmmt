@@ -20,11 +20,9 @@ user_groups:
 - Presenters
 ---
 
-<!--
 # About
 
-Elit exercitation eu occaecat velit ad.
--->
+Denis Martin is active as a researcher, course instructor, and audio engineer. He provides support in statistical data analysis to colleagues while his own work is focused on the perception, operation, and design of dynamic range compressors. He teaches courses at McGill University in the Sound Recording Area as well as offering workshops in audio and video production to musicians. As a freelance audio engineer, he specializes in two distant categories: contemporary western classical music recording and Canadian popular music mixing and mastering.
 
 # At the conference
 

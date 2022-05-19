@@ -16,4 +16,4 @@ tags: ["Thursday", "Round table"]
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 
-Plus d'informations données bientôt.
+Plus d'informations données bientôt. 

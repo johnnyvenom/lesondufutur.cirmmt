@@ -1,6 +1,6 @@
 ---
 
-title: "Session interactive 9: Capture de mouvement dans des situations écologiques"
+title: "Session interactive 9: Capture du mouvement avec plateforme inertielle pour application écologique"
 summary: "Vendredi | 9:00 - 10:30 | C-204 (McGill)"
 weight: 402
 tags: ["Friday", "Interactive session"]
@@ -18,7 +18,7 @@ tags: ["Friday", "Interactive session"]
 
 ## Titre
 
-- Capture de mouvement dans des situations écologiques
+- Capture du mouvement avec plateforme inertielle pour application écologique
 
 ## Présentateur
 
@@ -26,4 +26,4 @@ tags: ["Friday", "Interactive session"]
   
 ## Description
 
-La séance de travail sera consacrée à la captation du mouvement en situation écologique. Après avoir défini ce que constitue une situation écologique dans le cadre de la captation du mouvement, rappelé le potentiel d’utilisation du mouvement comme biomarqueur de la performance du système neuro-musculo-squelettique, et délimité les contraintes spécifiques à la performance musicale, des groupes de travail se pencheront sur les avantages et inconvénients des solutions technologiques actuelles telles que les capteurs inertiels (IMU) et les technologies sans marqueurs développées en lien avec les systèmes d’apprentissage profond. La séance se conclura par une réflexion collective sur les perspectives d’utilisation de ces pour l'étude du musicien, mais aussi à des fins pédagogiques et artistiques. 
+L’objet de cette session est de proposer une réflexion sur la spécificité de la réalisation d’une capture du mouvement en situation écologique. En effet, la situation écologique du fait d’être une situation réelle se différencie de la situation en laboratoire d’un fait d’un environnement non maitrisé et d’une mesure qui ne suit pas un protocole expérimental déterminé. Pour cela les techniques classiques de capture du mouvement avec système optique et marqueurs ne sont plus adaptées. L’alternative se trouve dans l’usage des capteurs inertiels aussi appelé IMU. Toutefois ceci n’apporte pas la même nature des mesures du mouvement dont il faudra prendre en compte pour l’analyse du mouvement. Pour illustrer les propos, cette session interactive sera ponctuée de deux applications pratiques d’usage des capteurs inertiels.

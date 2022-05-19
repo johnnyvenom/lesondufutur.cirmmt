@@ -1,6 +1,7 @@
 ---
 # Display name
-title: "Susan Oneill"
+title: "Susan O'Neill"
+active: false
 
 # Username (this should match the folder name and the name on publications)
 authors:

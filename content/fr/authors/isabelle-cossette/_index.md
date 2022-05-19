@@ -19,14 +19,11 @@ organizations:
 user_groups:
 - Presenters
 ---
-
-<!-- 
+ 
 # À propos
 
--->
-
+Directrice du Centre interdisciplinaire de recherche en musique, médias et technologie (CIRMMT - 2015-2020) et du Music Performance and Body Lab (MPBL), Isabelle Cossette axe ses recherches et son enseignement, à l'École de musique Schulich de l'Université McGill, sur la science de la performance. Elle vise notamment à favoriser le développement de pédagogies fondées sur des données probantes par l'étude de l'interaction interprète-instrument, de ses aspects biomécaniques et expressifs, ainsi qu'à examiner les avantages et les défis de la pratique musicale pour la santé. Sa formation multidisciplinaire (flûte et mécanique respiratoire) et ses collaborations internationales l'ont amenée à publier dans des revues telles que Respiratory Physiology and Neurobiology et Acta Acustica. 
 
 # À la conférence
 
 - [**Session interactive 7** *"Ensemble vers une éducation globale et plus saine pour les musiciens: Une occasion de briser les barrières ?"*]({{< relref "/session/thu/interactive-session-7.md" >}})
-- [**Session interactive 8** *"La créativité des aînés à l'ère numérique : Mobiliser la technologie pour l'apprentissage musical, la participation et la créativité des personnes âgées"*]({{< relref "/session/fri/interactive-session-8.md" >}}), avec [Andrea Creech]({{< relref "/authors/amanda-creech" >}}), Lee Willingham, et Susan O'Neill

@@ -22,7 +22,7 @@ user_groups:
 
 # À propos
 
-Catherine Guastavino est professeure agrégée à la School of Information Studies de l'Université McGill. Elle dirige le partenariat Sounds in the City, qui réunit plusieurs universitaires, professionnels, artistes et citoyens afin de repenser le rôle du son dans les villes. Elle a publié de nombreux articles sur les paysages sonores urbains, l'expérience sensorielle, la perception auditive et la psychologie de la musique. Elle possède également une grande expérience de collaboration avec des partenaires industriels, des institutions culturelles, ainsi qu'avec les gouvernements municipaux et provinciaux.
+Catherine Guastavino est professeure à l’Université McGill et membre du CIRMMT. Elle dirige le partenariat de recherche Ville Sonore qui regroupe chercheurs académiques, acteurs des milieux municipal et provincial, professionnels de l'aménagement, artistes et citoyens, pour repenser le rôle du sonore en ville. Ses travaux portent sur les ambiances sonores, les expériences sensibles, la perception auditive et la psychologie de la musique, souvent en collaboration avec des partenaires industriels, culturels et gouvernementaux. 
 
 
 # À la conférence

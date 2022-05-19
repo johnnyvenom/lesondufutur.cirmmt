@@ -27,4 +27,4 @@ Dr Andrea Creech is Professor of Music Pedagogy and Associate Dean of Academic a
 
 # At the conference
 
-- [**Interactive Session 8** *"Creative Later-Life in a Digital Age: Mobilizing technology for inclusive later-life musical learning, participation and creativity"*]({{< relref "/session/fri/interactive-session-8.md" >}}), with [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}}), [Lee Willingham]({{< relref "/authors/lee-willingham" >}}), and [Susan O'Neill]({{< relref "/authors/susan-oneill" >}})
+- [**Interactive Session 8** *"Creative Later-Life in a Digital Age: Mobilizing technology for inclusive later-life musical learning, participation and creativity"*]({{< relref "/session/fri/interactive-session-8.md" >}})

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Lee Willingham"
+active: false
 
 # Username (this should match the folder name and the name on publications)
 authors:

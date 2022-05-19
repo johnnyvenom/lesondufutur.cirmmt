@@ -1,6 +1,6 @@
 ---
 
-title: "Interactive Session 9: Motion capture in ecological situations"
+title: "Interactive Session 9: Motion capture with inertial sensors for ecological application"
 summary: "Friday | 9:00 - 10:30 | C-204 (McGill)
 something else"
 weight: 402
@@ -19,7 +19,7 @@ tags: ["Friday", "Interactive session"]
 
 ## Title
 
-- Motion capture in ecological situations
+- Motion capture with inertial sensors for ecological application
 
 ## Presenter
 
@@ -28,4 +28,4 @@ tags: ["Friday", "Interactive session"]
 
 ## Description
 
-La séance de travail sera consacrée à la captation du mouvement en situation écologique. Après avoir défini ce que constitue une situation écologique dans le cadre de la captation du mouvement, rappelé le potentiel d’utilisation du mouvement comme biomarqueur de la performance du système neuro-musculo-squelettique, et délimité les contraintes spécifiques à la performance musicale, des groupes de travail se pencheront sur les avantages et inconvénients des solutions technologiques actuelles telles que les capteurs inertiels (IMU) et les technologies sans marqueurs développées en lien avec les systèmes d’apprentissage profond. La séance se conclura par une réflexion collective sur les perspectives d’utilisation de ces pour l'étude du musicien, mais aussi à des fins pédagogiques et artistiques. 
+The purpose of this session is to propose an analysis of the specificity of capturing movement in ecological situations. Indeed, the ecological situation of being a real situation differs from the situation in the laboratory due to an uncontrolled environment and a measure which does not follow a specific experimental protocol. Due to these specificities,  the conventional techniques of motion capture with optical systems and markers are no longer suitable. The alternative lies in the use of inertial sensors also called IMU. However, it does not provide the same type of movement measurements that it will have to be taken into account for the analysis of the movement. To illustrate this, this interactive session will be punctuated by two practical applications of inertial sensors. 

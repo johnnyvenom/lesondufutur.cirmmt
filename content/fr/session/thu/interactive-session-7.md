@@ -1,6 +1,6 @@
 ---
 
-title: "Session interactive 7: Together towards a global and healthier education for musicians"
+title: "Session interactive 7: Ensemble, vers une éducation holistique et plus saine en matière d'interprétation musicale"
 summary: "Jeudi | 15:00 - 16:30 | A-832 (McGill)"
 weight: 352
 tags: ["Thursday", "Interactive session"]
@@ -18,7 +18,7 @@ tags: ["Thursday", "Interactive session"]
 
 ## Titre
 
-- Together towards a holistic education for healthier musicians: An opportunity to break barriers?
+- Ensemble, vers une éducation holistique et plus saine en matière d'interprétation musicale : Une occasion de briser les barrières ?  
 
 ## Présentateur
 
@@ -26,15 +26,15 @@ tags: ["Thursday", "Interactive session"]
 
 ## Description
 
-Most would agree that training an elite performer is an extremely complex and time-consuming process that requires the acquisition of an endless number of skills: from instrumental technique to historical practice through healthy lifestyle, bodily and mental controls, and individual artistic creativity. 
+La plupart des gens s'accordent à dire que la formation d'un interprète d'élite est un processus extrêmement complexe et long qui nécessite l'acquisition d'un nombre infini de compétences : de la technique instrumentale à la pratique historique en passant par un mode de vie sain, les contrôles corporels et mentaux et la créativité artistique individuelle.  
 
-In the sport domain, a pathway model for the training of athletes has often been used over the last decades. More recently, such models have come into question as no model seems to fit all. Similarly, the path to reach excellence in music performance is usually not linear. 
+Dans le domaine du sport, un modèle de parcours pour l'entraînement des athlètes a souvent été utilisé au cours des dernières décennies. Plus récemment, ces modèles ont été remis en question, car aucun modèle ne semble convenir à tous. De même, le chemin pour atteindre l'excellence dans la performance musicale n'est généralement pas linéaire.  
 
-This interactive session will address questions on the role of our communities in the improvement of musicians’ training in higher education. Topics that will be discussed include: 
+Cette session interactive abordera les questions relatives au rôle de nos communautés dans l'amélioration de la formation des musiciens dans l'enseignement supérieur. Les sujets qui seront abordés sont les suivants  
 
-- Identifying the key elements to reach excellence/full potential  
-- Defining the most pressing questions to address for the optimization of musicians’ training from the perspective of researchers/students/performers/educators.   
-- Discussing the advantages of multidisciplinary teams around performers and identifying barriers to this collaborative approach into higher education and research institutions. 
-- Identifying steps that would facilitate the integration of multidisciplinary/diverse perspectives such as applied performance science to the musicians’ training?  
+- L'identification des éléments clés pour atteindre l'excellence/le plein potentiel.  
+- Définir les questions les plus urgentes à traiter pour optimiser la formation des musiciens du point de vue des chercheurs/étudiants/interprètes/éducateurs.  
+- Discuter des avantages des équipes multidisciplinaires autour des interprètes et identifier les obstacles à cette approche collaborative dans les établissements d'enseignement supérieur et de recherche.  
+- Identifier les étapes qui faciliteraient l'intégration de perspectives multidisciplinaires/diverses telles que la science appliquée de la performance à la formation des musiciens.  
 
-If you are a musician/educator/researcher/student interested in the 21st century musicians’ learning journey, please come and share your ideas!    
+Si vous êtes un chercheur/étudiant/musicien/éducateur intéressé par le parcours d'apprentissage des musiciens du 21e siècle, venez partager vos idées ! 
