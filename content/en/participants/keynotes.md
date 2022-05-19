@@ -20,5 +20,6 @@ design:
   show_role: false
   show_organizations: true
   show_social: false
-
+advanced:
+#   css_style: "max-width: 900px; margin: auto"
 ---
