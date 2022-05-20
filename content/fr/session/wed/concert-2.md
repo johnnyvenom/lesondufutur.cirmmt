@@ -18,12 +18,13 @@ tags: ["Wednesday", "Concert"]
 
 ## Program
 
-- **[Nouvel Ensemble Moderne]({{< relref "/authors/nouvel-ensemble-moderne" >}})** *"Anaktoria"*
+<!-- - **[Nouvel Ensemble Moderne]({{< relref "/authors/nouvel-ensemble-moderne" >}})** *"Anaktoria"* -->
 - **[ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}})** *"PolytopeXXI"*
 
 ## Description
 
-Le deuxième concert sera un hommage à Iannis Xenakis, combinant un nouvel instrument/installation, PolytopeXXI, avec un chef-d'œuvre du répertoire du XXe siècle, Pléiades de Xenakis. PolytopeXXI présentera un nouvel instrument monumental : une sorte de harpe géante, électroniquement augmentée et audio-luminescente, dont les cordes seront frappées par les percussionnistes de [ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}}) dans une nouvelle oeuvre de [Myriam Boucher]({{< relref "/authors/myriam-boucher" >}}) et [Dominic Thibault]({{< relref "/authors/dominic-thibault" >}}). Le [Nouvel Ensemble Moderne]({{< relref "/authors/nouvel-ensemble-moderne" >}}) participera également au concert avec l'œuvre rarement jouée *Anaktoria*, de Iannis Xenakis.
+Le deuxième concert sera un hommage à Iannis Xenakis, combinant un nouvel instrument/installation, PolytopeXXI, avec un chef-d'œuvre du répertoire du XXe siècle, Pléiades de Xenakis. PolytopeXXI présentera un nouvel instrument monumental : une sorte de harpe géante, électroniquement augmentée et audio-luminescente, dont les cordes seront frappées par les percussionnistes de [ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}}) dans une nouvelle oeuvre de [Myriam Boucher]({{< relref "/authors/myriam-boucher" >}}) et [Dominic Thibault]({{< relref "/authors/dominic-thibault" >}}). 
+<!-- Le [Nouvel Ensemble Moderne]({{< relref "/authors/nouvel-ensemble-moderne" >}}) participera également au concert avec l'œuvre rarement jouée *Anaktoria*, de Iannis Xenakis. -->
 
 ## À propos **Polytope XXI**
 

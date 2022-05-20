@@ -18,12 +18,13 @@ tags: ["Wednesday", "Concert"]
 
 ## Program
 
-- **[Nouvel Ensemble Moderne]({{< relref "/authors/nouvel-ensemble-moderne" >}})** *"Anaktoria"*
+<!-- - **[Nouvel Ensemble Moderne]({{< relref "/authors/nouvel-ensemble-moderne" >}})** *"Anaktoria"* -->
 - **[ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}})** *"PolytopeXXI"*
 
 ## Description
 
-The second concert will be a tribute to Iannis Xenakis, combining a new instrument/installation, *PolytopeXXI*, with a masterpiece of the XXth century repertoire, Xenakis’ Pleiades. *PolytopeXXI* will feature a monumental new instrument: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of the [ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}}) in a new work by [Myriam Boucher]({{< relref "/authors/myriam-boucher" >}}) and [Dominic Thibault]({{< relref "/authors/dominic-thibault" >}}). The [Nouvel Ensemble Moderne]({{< relref "/authors/nouvel-ensemble-moderne" >}}) will also take part to the concert with the rarely performed *Anaktoria*, by Iannis Xenakis. 
+The second concert will be a tribute to Iannis Xenakis, combining a new instrument/installation, *PolytopeXXI*, with a masterpiece of the XXth century repertoire, Xenakis’ Pleiades. *PolytopeXXI* will feature a monumental new instrument: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of the [ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}}) in a new work by [Myriam Boucher]({{< relref "/authors/myriam-boucher" >}}) and [Dominic Thibault]({{< relref "/authors/dominic-thibault" >}}).
+<!-- The [Nouvel Ensemble Moderne]({{< relref "/authors/nouvel-ensemble-moderne" >}}) will also take part to the concert with the rarely performed *Anaktoria*, by Iannis Xenakis.  -->
 
 ## About **Polytope XXI**
 
