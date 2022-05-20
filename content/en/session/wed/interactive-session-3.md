@@ -19,6 +19,7 @@ tags: ["Wednesday", "Interactive session"]
 ## Title
 
 - "Discussion on sound art in public spaces"
+<!-- - "Sound Art after COVID: can participatory sound art initiatives lead to a new understanding of sound environments in urban settings?" -->
 
 ## Presenter
 

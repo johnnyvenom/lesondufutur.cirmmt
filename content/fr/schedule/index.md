@@ -42,10 +42,10 @@ draft: false
 | ----------- | ----------------- | ----------------- | ----------------------- |
 |             |                   |                   |                         |
 | *8h30-9h*   | *Table d'accueil*   | *Foyer*           |
-| 9h-10h15  | [Intro + Panel: RA1]({{< relref "/session/wed/panel-1.md" >}}) | B412 | Buffoni/Dutoit |
+| 9h-10h15  | [Intro + Panel: RA1]({{< relref "/session/wed/panel-1.md" >}}) | B412 | <!-- Buffoni/Dutoit --> |
 | 10h15-11h | [Discours liminaire 2]({{< relref "/session/wed/keynote-2.md" >}}) | B421 | A. Fleischer | 
 | *11h-11h30* | *Pause café*    | *Foyer* |
-| 11h30-12h30 | [Panel: RA2]({{< relref "/session/wed/panel-2.md" >}}) | B421 | G. Boutard |
+| 11h30-12h30 | [Panel: RA2]({{< relref "/session/wed/panel-2.md" >}}) | B421 | <!-- G. Boutard --> |
 | 12h30-14h | *Déjeuner*           | *Foyer* |
 | 14h-14h45 | [Discours liminaire 3]({{< relref "/session/wed/keynote-3.md" >}}) | B421 | Choi/Bargar |
 | 14h45-16h15 | [Interactive 1]({{< relref "/session/wed/interactive-session-1.md" >}}) | B399 | J. Berzowska |
@@ -69,10 +69,10 @@ draft: false
 |---|---|---|---|
 |  |  |  |  |
 | *8h30-9h* | *Table d'accueil* | *Wirth Lobby* |   |
-| 9h-10h | [Panel: RA3]({{< relref "/session/thu/panel-3.md" >}}) | Tanna Hall | Schutz/Zimmerman |
+| 9h-10h | [Panel: RA3]({{< relref "/session/thu/panel-3.md" >}}) | Tanna Hall | <!-- Schutz/Zimmerman --> |
 | 10h-10h45 | [Discours liminaire 4]({{< relref "/session/thu/keynote-4.md" >}}) | Tanna Hall | S. Fels |
 | 10h45-11h45 | [Affiches 2]({{< relref "/session/thu/posters-2.md" >}}) & *Pause café* | Wirth Lobby |   |
-| 11h45-12h45 | [Panel: RA4]({{< relref "/session/thu/panel-4.md" >}}) | Tanna Hall |   | 
+| 11h45-12h45 | [Panel: RA4]({{< relref "/session/thu/panel-4.md" >}}) | Tanna Hall | <!-- M. Wanderley -->  | 
 | *12h45-14h15* | *Déjeuner* | *Wirth Lobby* |   |
 | 14h15-15h | [Discours liminaire 5]({{< relref "/session/thu/keynote-5.md" >}}) | Tanna Hall |  L.X. Buffoni |
 | 15h-16h30 | [Interactive 5]({{< relref "/session/thu/interactive-session-5.md" >}}) | C-201 | A. Pras |
