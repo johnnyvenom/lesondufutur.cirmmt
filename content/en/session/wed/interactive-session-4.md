@@ -1,6 +1,6 @@
 ---
 
-title: "Interactive Session 4: En immersion audiovisuelle au coeur de la performance musicale"
+title: "Interactive Session 4: Audiovisual immersion in the heart of the musical performance"
 summary: " Wednesday | 17:30 - 18:30 | TBD (UdeM)"
 weight: 265
 tags: ["Wednesday", "Interactive session"]
@@ -18,16 +18,17 @@ tags: ["Wednesday", "Interactive session"]
 
 ## Title
 
-- En immersion audiovisuelle au coeur de la performance musicale : deux expériences interactives en réalité virtuelle avec les ensembles de musique du monde Kora Flamenca et Levantine Rhapsody 
+- Audiovisual immersion in the heart of the musical performance: two interactive experiences in virtual reality with the world music ensembles Kora Flamenca and Levantine Rhapsody 
+
 
 ## Overview
 
-L’objectif de ce projet interdisciplinaire vise à développer une méthodologie novatrice de captation immersive de la performance musicale, à l’aide des technologies de la réalité virtuelle — captation d'images stéréoscopiques à 360 degrés et captation audionumérique ambisonique — pour ensuite rendre l’expérience musicale accessible dans un format audiovisuel immersif et interactif, permettant à l’auditeur-spectateur de se plonger au coeur de la performance. Avec le soutien de la Fondation Canadienne pour l’Innovation et de l’OICRM, deux expériences de réalité virtuelle ont ainsi été réalisées en collaboration avec le Centre des musiciens du monde et deux ensembles phares de la scène des musiques du monde montréalaise, le quatuor Kora Flamenca (kora, contrebasse, guitare flamenca, cajón), ainsi que le quintette Levantine Rhapsody (kanun, violon, flûtes, percussions, violoncelle).  
+The objective of this interdisciplinary project is to develop an innovative methodology for the immersive capture of musical performance, using virtual reality technologies - 360-degree stereoscopic image capture and ambisonic digital audio capture - to then make the musical experience accessible in an immersive and interactive audiovisual format, allowing the listener-spectator to immerse himself in the heart of the performance. With the support of the Canada Foundation for Innovation and the OICRM, two virtual reality experiences have been created in collaboration with the World Musicians Centre and two leading ensembles of the Montreal world music scene, the Kora Flamenca quartet (kora, double bass, flamenco guitar, cajon), as well as the Levantine Rhapsody quintet (kanun, violin, flutes, percussions, cello).
 
-Ces deux expériences seront accessibles aux participant.e.s à l’atelier à travers des visiocasques Oculus Quest 2, tandis que des membres de l'équipe seront présents pour présenter et discuter des spécificités de ce projet-pilote et de ses retombées, tant pour l’ethnographie musicale que pour la médiation de la musique et l’analyse de l’orchestration en situation de jeu instrumental. 
+These two experiences will be accessible to workshop participants through Oculus Quest 2 headsets, while members of the team will be present to present and discuss the specificities of this pilot project and its repercussions, both for musical ethnography and for the mediation of music and the analysis of orchestration in an instrumental performance situation.
 
 ## Presenters
 
 - [Caroline Traube]({{< relref "/authors/caroline-traube" >}})
-- [Ons Barnat]({{< relref "/authors/ons-barnat" >}}) 
+- [Ons Barnat]({{< relref "/authors/ons-barnat" >}})
 - [Frédéric Léotar]({{< relref "/authors/frederic-leotar" >}})

@@ -1,6 +1,6 @@
 ---
 
-title: "Session interactive 10: 3D Music Production"
+title: "Session interactive 10: Production musicale 3D"
 summary: "Vendredi | 11:00 - 12:30 | C-201/Studio 22 (McGill)"
 weight: 410
 tags: ["Friday", "Interactive session"]
@@ -27,10 +27,10 @@ tags: ["Friday", "Interactive session"]
 
 ## Description
 
-Denis Martin will lead an interactive session on 3D Music Production. We will begin with a short introduction to the delivery formats currently used in major music releases and the availability of 3D audio experiences to consumers. Dolby Atmos (Apple Spatial Audio), Sony 360 Reality Audio, and Auro3D. 
+Denis Martin dirigera une session interactive sur la production musicale 3D. Nous commencerons par une brève introduction aux formats de diffusion actuellement utilisés dans les principales productions musicales, et une brève présentation des expériences audio 3D disponibles pour les consommateurs. Dolby Atmos (Apple Spatial Audio), Sony 360 Reality Audio, et Auro3D.
 
-After, the session will proceed with an interactive Q&A involving a panel of instructors and students from the Sound Recording area. The Q&A is open in its direction, but could include how composers, performers, and others in CIRMMT see these developments affecting their work and research opportunities, and where they see benefits and applications. We can also discuss technologies, recording and post-production approaches, challenges, and limitations. 
+La session se poursuivra ensuite avec une séance interactive de questions-réponses impliquant un panel de professionnels et d'étudiants du secteur de l'enregistrement sonore. L'orientation des questions est libre, mais pourrait inclure la façon dont les compositeurs, les interprètes et les autres membres du CIRMMT voient ces développements affecter leur travail et leurs opportunités de recherche, et où ils voient des avantages et des applications. Nous pouvons également discuter des technologies, des approches d'enregistrement et de post-production, des défis et des limites.
 
-The session will conclude with an optional listening session involving student and faculty 3D music productions in Sound Recording’s Studio 22 on the -2 floor of the Wirth Music Building.
+La session se terminera par une séance d'écoute facultative de productions musicales 3D réalisées par des étudiants et des professeurs dans le studio 22 de Sound Recording, au deuxième étage du Wirth Music Building.
 
-Participants attending this session will hopefully come away with an understanding of the potentials and limitations of the technology, with an aural experience of 3D Music over a reference quality sound system, and inspiration to incorporate mainstream 3D audio technologies into music research and productions.
+Nous espérons que les participants à cette session comprendront les possibilités offertes par cette technologie, ainsi que ses limites. Ce serait aussi l'occasion pour eux de vivre une expérience auditive de la musique 3D sur un système sonore de référence et de s'inspirer pour intégrer les technologies audio 3D courantes dans la recherche et les productions musicales.

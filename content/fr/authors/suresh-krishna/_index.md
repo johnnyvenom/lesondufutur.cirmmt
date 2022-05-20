@@ -11,7 +11,7 @@ role: Associate professor of psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Université McGill
+- name: McGill University
   url: "https://www.mcgill.ca/physiology/directory/core-faculty/suresh-krishna"
 
 # Organizational groups that you belong to (for People widget)
@@ -22,9 +22,9 @@ user_groups:
 
 # À propos
 
-Suresh Krishna is an Associate Professor in the Department of Physiology at McGill. He completed his medical training at the All-India Institute of Medical Sciences, New Delhi and then a PhD in neural science at NYU. His PhD thesis involved the measuring and modeling of neuronal responses to amplitude-modulated sounds. Since then, he has worked a lot on eye-tracking, visual attention and eye-movements. Among many other things, Suresh is actively interested in all topics related to musical structure and its perception and production by the human mind, brain and body.
+Suresh Krishna est professeur agrégé au département de physiologie de l'Université McGill. Il a fait sa formation médicale à l'All-India Institute of Medical Sciences, à New Delhi, puis a obtenu un doctorat en sciences neurales à l'Université de New York. Sa thèse de doctorat portait sur la mesure et la modélisation des réponses neuronales aux sons modulés en amplitude. Depuis lors, il a beaucoup travaillé sur l'eye-tracking, l'attention visuelle et les mouvements oculaires. Parmi de nombreuses autres choses, Suresh s'intéresse activement à tous les sujets liés à la structure musicale, à sa perception et à sa production par l'esprit, le cerveau et le corps humain. 
 
 
 # À la conférence
 
-- [**Session interactive 6** *"La musique, incarnée et enracinée"*]({{< relref "/session/thu/interactive-session-6.md" >}}) avec Fabrice Marandola, Floris van Vugt, Craig Turner, Simone Dalla Bella, Jéremie Voix, and Mickael Deroche
+- [**Session interactive 6** *"La musique, incarnée et enracinée"*]({{< relref "/session/thu/interactive-session-6.md" >}}) avec [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}), Floris van Vugt, Craig Turner, Simone Dalla Bella, [Jéremie Voix]({{< relref "/authors/jeremie-voix" >}}), and Mickael Deroche

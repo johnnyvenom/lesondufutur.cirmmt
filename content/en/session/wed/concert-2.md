@@ -12,7 +12,7 @@ tags: ["Wednesday", "Concert"]
 | | |
 | - | - |
 | **Day:** | Wednesday |
-| **Time:** | 20:00 - 21:30 |
+| **Time:** | 19:30 - 21:00 |
 | **Location:** | Université de Montréal |
 | **Room:** | Salle Claude-Champagne |
 

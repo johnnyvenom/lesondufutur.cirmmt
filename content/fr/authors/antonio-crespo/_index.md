@@ -7,24 +7,24 @@ authors:
 - "antonio-crespo"
 
 # Role/position
-role:
+role: Directeur
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Musitechnic Community and Research Center
   url: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Presenters
+- Intervenants
 ---
 
 # À propos
 
-Dr. Antonio Crespo is the Director of the Musitechnic Community and Research Center (MCRC), the Director of Programs of the Musitechnic College, and member of the DreamerGate R&D Enterprises Inc. Board of Directors. Dr. Crespo has been conducting AI related research since 2008, and throughout his professional and academic careers he had opportunities to found research labs, to promote and support scientific events, as well as to manage the development and implementation of complex systems. He holds a PhD in Information & Systems Engineering, an MSc in Computer Science, a BSc in Social Sciences (Sociology and Political Science), and a BSc in Aeronautical Sciences. Dr. Crespo’s experience within education covers various levels: he worked as member of the Westmount High School Governing Body, took part of English Montreal School Board committees, he is currently an expert of the Québec’s “Commission d’évaluation de l’enseignement collégial”, and he held a Graduate Science Teaching and Learning Fellowship from Concordia University. 
+Antonio Crespo est le directeur du Musitechnic Community and Research Center (MCRC), le directeur des programmes du Musitechnic College et membre du conseil d'administration de DreamerGate R&D Enterprises Inc.. Dr. Crespo mène des recherches sur l'IA depuis 2008. Tout au long de sa carrière professionnelle et universitaire, il a eu l'occasion de fonder des laboratoires de recherche, de promouvoir et de soutenir des événements scientifiques, ainsi que de gérer le développement et la mise en œuvre de systèmes complexes. Il est titulaire d'un doctorat en ingénierie de l'information et des systèmes, d'un master en informatique, ainsi que d'une licence en sciences sociales (sociologie et sciences politiques) et d'une licence en sciences aéronautiques. L'expérience du Dr. Crespo dans le domaine de l'éducation couvre plusieurs niveaux : il a été membre du conseil d'établissement de l'école secondaire Westmount et a participé à des comités de la Commission scolaire English-Montréal. Il est actuellement expert de la Commission d'évaluation de l'enseignement collégial du Québec et il a obtenu une bourse d'études supérieures en enseignement et apprentissage des sciences de l'Université Concordia. 
 
 
 # À la conférence
 
-- [**Session interactive 11** *"Artificial Intelligence driving the shape of new realities: what to expect from the music in the Metaverse Era"*]({{< relref "/session/fri/interactive-session-11.md" >}})
+- [**Session interactive 11** *"L'intelligence artificielle à l'origine de nouvelles réalités : que peut-on attendre de la musique à l'ère du Metaverse ?"*]({{< relref "/session/fri/interactive-session-11.md" >}})

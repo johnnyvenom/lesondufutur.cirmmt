@@ -55,8 +55,8 @@ draft: false
 | 16h45-17h30 | [Table ronde 1]({{< relref "/session/wed/round-table-1.md" >}}) | B421 |
 | 17h30-18h30 | [Atelier 1]({{< relref "/session/wed/workshop-1.md" >}})        | B-187 (Spat-GRIS) | Frisoli/Giannini |
 |             | [Interactive 4 ]({{< relref "/session/wed/interactive-session-4.md" >}}) | *à préciser* | Barnat/Traube/Léotar |
-| *18h30-20h* | *Aperitif/dîner* | *Foyer* |
-| 20h-21h30    | [Concert 2]({{< relref "/session/wed/concert-2.md" >}}) | Claude Champagne  | Nouvel Ensemble Moderne | 
+| *18h30-19h30* | *Aperitif/dîner* | *Foyer* |
+| 19h30-21h00    | [Concert 2]({{< relref "/session/wed/concert-2.md" >}}) | Claude Champagne  | Nouvel Ensemble Moderne | 
 |             |                   |                   | SIXTRUM/Thibaut/Boucher |
 | | | | | |
 

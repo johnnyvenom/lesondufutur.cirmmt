@@ -1,6 +1,6 @@
 ---
 
-title: "Session interactive 11: Artificial Intelligence driving the shape of new realities"
+title: "Session interactive 11: L'intelligence artificielle façonne de nouvelles réalités"
 summary: "Vendredi | 11:00 - 12:30 | C-201/Studio 22 (McGill)"
 weight: 415
 tags: ["Friday", "Interactive session"]
@@ -18,7 +18,8 @@ tags: ["Friday", "Interactive session"]
 
 ## Titre
 
-Artificial Intelligence driving the shape of new realities: what to expect from the music in the Metaverse Era
+L'intelligence artificielle à l'origine de nouvelles réalités : que peut-on attendre de la musique à l'ère du Metaverse ?
+
 
 ## Présentateur
 
@@ -26,17 +27,17 @@ Artificial Intelligence driving the shape of new realities: what to expect from 
 
 ## Description
 
-Our conventional reality shall properly acknowledge the existence of online social networks comprising from millions to billions of active members. And even before fully understanding the sociological and psychological impacts of such massive remote social medias hosted interactions, we now face the potential migration of these individuals towards a new (virtual?) reality named Metaverse. Within such scenario, the interactive session is intended to discuss some insights on how existing AI algorithms featured in the social medias’ platforms (facial recognition, textual analysis, targeted advertising, language translation, news feed, etc.), as well Extended (augmented-virtual-mixed) Reality applications and environments may impact the future of Music and Music creation as we know.  
+Notre réalité conventionnelle reconnaît comme il se doit l'existence de réseaux sociaux en ligne comprenant des millions, voire des milliards de membres actifs. Et avant même de comprendre pleinement les impacts sociologiques et psychologiques de ces interactions massives hébergées par les médias sociaux à distance, nous sommes maintenant confrontés à la migration potentielle de ces individus vers une nouvelle réalité (virtuelle ?) appelée Metaverse. Dans le cadre d'un tel scénario, la session interactive a pour but de discuter de la façon dont les algorithmes d'IA existants sur les plateformes de médias sociaux (reconnaissance faciale, analyse textuelle, publicité ciblée, traduction de la langue, flux d'informations, etc.), ainsi que les applications et environnements de réalité (augmentée-virtuelle-mixte) étendue peuvent avoir un impact sur l'avenir de la musique et de la création musicale telles que nous les connaissons.
 
-Such exciting and challenging matter will be addressed in a one hour and half discussion session featuring:  
+Ces questions passionnantes et stimulantes seront abordées au cours d'une session de discussion d'une heure et demie :
 
-- a 20 minutes presentation on AI / Metaverse / Music ecosystems intersections, aimed at setting the scene for a panel discussion.  
-- a 30 minutes panel discussion featuring 4 panelists from the artistic domain, from the tech industry and from the Academia.  
-- a 30 minutes interactive discussion with the participation of the audience.  
-- a 10 minutes wrap up.  
-- 
-The Interactive Session is expected to bring insights on some burning questions, such as:  
+- une présentation de 20 minutes sur les intersections IA / Metaverse / écosystèmes musicaux, visant à planter le décor pour une discussion en panel.
+- une table ronde de 30 minutes avec 4 panélistes issus du domaine artistique, de l'industrie technologique et du monde universitaire.
+- une discussion interactive de 30 minutes avec la participation du public.
+- une conclusion de 10 minutes.
 
-- What is the Metaverse?  
-- Will the AI currently driving the social medias continue to thrive in the Metaverse?  
-- How AI and the Metaverse are impacting the Sound & Music: which reality shapes which reality? 
+La session interactive devrait apporter des réponses à certaines questions brûlantes, telles que :
+
+- Qu'est-ce que le Metaverse ?
+- L'intelligence artificielle qui anime actuellement les médias sociaux continuera-t-elle à prospérer dans le Metaverse ?
+- Comment l'IA et le Metaverse influencent le son et la musique : quelle réalité façonne quelle réalité ?

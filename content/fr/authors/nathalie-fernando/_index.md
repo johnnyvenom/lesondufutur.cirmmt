@@ -7,7 +7,7 @@ authors:
 - "nathalie-fernando"
 
 # Role/position
-role: Professor, Faculty of Music
+role: Professeure, Faculté de musique
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,10 @@ user_groups:
 - Presenters
 ---
 
-<!--
 # About
 
-Today, no society – not even the most traditional ones – can in any real sense escape the impact of the worldwide circulation of cultural products or that of the tourism industry, which is growing rapidly in many countries. General attitudes toward these trends are ambivalent: on the one hand, there is hope that they will contribute to a mutual enrichment of cultures and an appreciation of their intrinsic values; on the other, there is concern that the trends may lead to the gradual erosion and homogenization of cultural heritages. The key questions raised in this context involve the balance of cultural exchange and the dynamic potential that each culture can harness to develop and renew itself.
+De nos jours, aucune société - pas même les plus traditionnelles - ne peut réellement échapper à l'impact de la circulation mondiale des produits culturels ou à celui de l'industrie du tourisme, qui connaît une croissance rapide dans de nombreux pays. Les attitudes générales à l'égard de ces tendances sont ambivalentes : d'une part, on espère qu'elles contribueront à un enrichissement mutuel des cultures et à une appréciation de leurs valeurs intrinsèques ; d'autre part, on craint qu'elles n'entraînent une érosion et une homogénéisation progressives des patrimoines culturels. Les questions clés soulevées dans ce contexte concernent l'équilibre des échanges culturels et le potentiel dynamique que chaque culture peut exploiter pour se développer et se renouveler. Le programme de recherche du professeur Fernando s'articule autour de trois thèmes, qui doivent être abordés dans une perspective transversale et nécessiteront l'application de concepts et de méthodes issus de deux disciplines - l'ethnomusicologie et l'anthropologie. Ces trois thèmes sont (1) les phénomènes de mondialisation, (2) l'intégration du patrimoine musical dans le tourisme, et (3) la catégorisation des formes musicales. L'objectif fondamental est d'identifier les processus en jeu dans chaque phénomène, d'analyser leurs caractéristiques changeantes et de fournir des clés d'interprétation de leur fonctionnement, d'identifier et d'expliquer les contextes dans lesquels ils opèrent, d'évaluer leur impact à l'intérieur et à l'extérieur d'une culture donnée et de faire ressortir les enjeux sous-jacents.
 
-Professor Fernando’s research program revolves around three themes, which must be approached from a transversal perspective and will require the application of concepts and methods drawn from two disciplines – ethnomusicology and anthropology.
-
-The three themes are (1) globalization phenomena, (2) the integration of musical heritage in tourism, and (3) the categorization of musical forms. The basic goal is to identify the processes at play in each phenomenon, analyze their changing characteristics and provide keys for interpreting how they function, identify and explain the contexts in which they operate, assess their impact within and outside a given culture, and bring out the underlying issues.
--->
 
 
 # At the conference
