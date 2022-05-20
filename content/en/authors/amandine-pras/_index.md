@@ -26,4 +26,5 @@ Amandine Pras is leading the MA in Music Production at the University of York in
 
 # At the conference
 
+- [**Introduction & Panel 1** *"Research Axis 1: Instruments, devices & systems"*]({{< relref "/session/wed/panel-1.md" >}})
 - [**Interactive session 5** *"Feminist perspectives to enhance global audio and music partnerships"*]({{< relref "/session/thu/interactive-session-5.md" >}})

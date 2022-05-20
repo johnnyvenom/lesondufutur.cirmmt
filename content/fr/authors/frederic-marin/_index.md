@@ -26,4 +26,5 @@ Depuis 2009, Frédéric Marin est professeur au Laboratoire de biomécanique et 
 
 # À la conférence
 
+- [**Panel 3:** *"Axe de recherche 3 : Cognition, perception et mouvement"*]({{< relref "/session/thu/panel-3.md" >}})
 - [**Session interactive 9** *"Capture du mouvement avec plateforme inertielle pour application écologique"*]({{< relref "/session/fri/interactive-session-9.md" >}})

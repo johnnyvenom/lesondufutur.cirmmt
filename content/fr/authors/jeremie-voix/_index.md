@@ -26,5 +26,5 @@ Prof. Voix dirige la Chaire de recherche industrielle CRSNG-EERS en technologies
 
 # At the conference
 
-- [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}}), avec [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}) et [Nathalie Fernando]({{< relref "/authors/nathalie-fernando" >}})
+- [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}})
 - [**Interactive session 6** *"La musique, incarnée et enracinée"*]({{< relref "/session/thu/interactive-session-6.md" >}}) with [Suresh Krishna]({{< relref "/authors/suresh-krishna" >}}, [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}), Floris van Vugt, Craig Turner, Simone Dalla Bella, and Mickael Deroche

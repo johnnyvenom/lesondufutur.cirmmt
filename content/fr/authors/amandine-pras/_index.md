@@ -27,4 +27,5 @@ Amandine Pras dirige le MA en production musicale à l'Université de York au Ro
 
 # À la conférence
 
+- [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}})
 - [**Session interactive 5** *"Des perspectives féministes pour renforcer les partenariats mondiaux dans le domaine de l'audio et de la musique"*]({{< relref "/session/thu/interactive-session-5.md" >}})

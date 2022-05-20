@@ -26,4 +26,5 @@ Caroline Traube is an Associate Professor at the Faculty of Music of the Univers
 
 # At the conference
 
+- [**Panel 2:** *"Research Axis 2: Music Information Research"*]({{< relref "/session/wed/panel-2.md" >}})
 - [**Interactive Session 4**]({{< relref "session/wed/interactive-session-4.md">}}), with [Ons Barnat]({{< relref "/authors/ons-barnat" >}}) and [Frédéric Léotar]({{< relref "/authors/frederic-leotar" >}})

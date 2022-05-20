@@ -29,5 +29,5 @@ Michael Schutz est professeur de cognition musicale et percussion à l'universit
 
 # À la conférence
 
-- [**Panel 3:** *"Axe de recherche 3 : Cognition, perception et mouvement"*]({{< relref "/session/thu/panel-3.md" >}}) avec [Elizabeth Zimmerman]({{< relref "/authors/elizabeth-zimmerman" >}})
+- [**Panel 3:** *"Axe de recherche 3 : Cognition, perception et mouvement"*]({{< relref "/session/thu/panel-3.md" >}})
 - [**Session interactive 2:** *"Psychologie musicale et musiciens interprètes : un dialogue"*]({{< relref "/session/wed/interactive-session-2.md" >}})

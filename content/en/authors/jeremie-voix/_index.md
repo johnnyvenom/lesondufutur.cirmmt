@@ -26,5 +26,6 @@ Prof. Voix leads the NSERC-EERS Industrial Research Chair in In-Ear Technologies
 
 # At the conference
 
-- [**Introduction & Panel 1** *"Research Axis 1: Instruments, devices & systems"*]({{< relref "/session/wed/panel-1.md" >}}), with [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}) and [Nathalie Fernando]({{< relref "/authors/nathalie-fernando" >}})
+- [**Introduction & Panel 1** *"Research Axis 1: Instruments, devices & systems"*]({{< relref "/session/wed/panel-1.md" >}})
+<!-- - [**Introduction & Panel 1** *"Research Axis 1: Instruments, devices & systems"*]({{< relref "/session/wed/panel-1.md" >}}), with [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}) and [Nathalie Fernando]({{< relref "/authors/nathalie-fernando" >}}) -->
 - [**Interactive session 6** *"Music, embodied and embrained"*]({{< relref "/session/thu/interactive-session-6.md" >}}) with [Suresh Krishna]({{< relref "/authors/suresh-krishna" >}}), [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}), Floris van Vugt, Craig Turner, Simone Dalla Bella, and Mickael Deroche

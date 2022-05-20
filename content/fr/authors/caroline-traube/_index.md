@@ -27,4 +27,5 @@ Caroline Traube est professeure agrégée à la Faculté de musique de l’Unive
 
 # À la conférence
 
+- [**Panel 2:** *"Axe de recherche 2 : Recherche sur l'information musicale"*]({{< relref "/session/wed/panel-2.md" >}})
 - [**Session interactive 4**]({{< relref "session/wed/interactive-session-4.md">}}), with [Ons Barnat]({{< relref "/authors/ons-barnat" >}}) and [Frédéric Léotar]({{< relref "/authors/frederic-leotar" >}})

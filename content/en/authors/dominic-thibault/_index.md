@@ -28,3 +28,4 @@ Elit exercitation eu occaecat velit ad.
 # At the conference
 
 - [**Concert 2** *"PolytopeXXI"*]({{< relref "/session/wed/concert-2.md" >}}), with [ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}}) and [Myriam Boucher]({{< relref "/authors/myriam-boucher" >}})
+- [**Panel 4:** *"Research Axis 4: Expanded Musical Practice"*]({{< relref "/session/thu/panel-4.md" >}})

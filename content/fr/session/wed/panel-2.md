@@ -1,7 +1,7 @@
 ---
 
 title: "Panel: Axe de recherche 2"
-summary: "Mercredi | 11:30 - 12:30 | à préciser (UdeM)"
+summary: "Mercredi | 11:30 - 12:30 | B421 (UdeM)"
 
 weight: 220
 tags: ["Wednesday", "Panel"]
@@ -15,7 +15,7 @@ tags: ["Wednesday", "Panel"]
 | **Jour:** | Mercredi |
 | **Heure:** | 11:30 - 12:30 |
 | **Localisation:** | Université de Montréal |
-| **Salle:** | à préciser |
+| **Salle:** | B421 |
 
 ## Aperçu
 
@@ -24,3 +24,10 @@ tags: ["Wednesday", "Panel"]
 ## Intervenants
 
 - [Guillaume Boutard]({{< relref "/authors/guillaume-boutard" >}})
+- Mickael Deroche
+- [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}})
+- [Catherine Guastavino]({{< relref "/authors/catherine-guastavino" >}})
+- Jose M. Iñesta
+- Marc Lavallée
+- [Caroline Traube]({{< relref "/authors/caroline-traube" >}})
+- [Elizabeth Zimmerman]({{< relref "/authors/elizabeth-zimmerman" >}})

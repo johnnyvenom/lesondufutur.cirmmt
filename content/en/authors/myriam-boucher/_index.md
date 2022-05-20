@@ -28,6 +28,7 @@ Myriam Boucher is a video and sound artist based in Montreal (Canada). Her sensi
 # At the conference
 
 - [**Concert 2: Tribute to Xenakis** *"PolytopeXXI"*]({{< relref "/session/wed/concert-2.md" >}}), with [ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}}) and [Dominic Thibault]({{< relref "/authors/dominic-thibault" >}})
+- [**Panel 4:** *"Research Axis 4: Expanded Musical Practice"*]({{< relref "/session/thu/panel-4.md" >}})
 
 # Artist page
 

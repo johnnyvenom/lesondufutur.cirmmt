@@ -27,4 +27,5 @@ Suresh Krishna est professeur agrégé au département de physiologie de l'Unive
 
 # À la conférence
 
+- [**Panel 3:** *"Axe de recherche 3 : Cognition, perception et mouvement"*]({{< relref "/session/thu/panel-3.md" >}})
 - [**Session interactive 6** *"La musique, incarnée et enracinée"*]({{< relref "/session/thu/interactive-session-6.md" >}}) avec [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}), Floris van Vugt, Craig Turner, Simone Dalla Bella, [Jéremie Voix]({{< relref "/authors/jeremie-voix" >}}), and Mickael Deroche

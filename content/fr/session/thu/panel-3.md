@@ -20,7 +20,13 @@ tags: ["Thursday", "Panel"]
 
 - CIRMMT Axes de Recherche 3: Cognition, perception et mouvement
 
-## Présentateurs
+## Intervenants
 
+- [Joanna Berzowska]({{< relref "/authors/joanna-berzowska">}})
+- [Isabelle Cossette]({{< relref "/authors/isabelle-cossette">}})
+- Julie Cumming
+- Andrea Creech
+- [Suresh Krishna]({{< relref "/authors/suresh-krishna">}})
+- [Frédéric Marin]({{< relref "/authors/frederic-marin">}})
 - [Michael Schutz]({{< relref "/authors/michael-schutz">}})
-- [Elizabeth Zimmerman]({{< relref "/authors/elizabeth-zimmerman" >}})
+<!-- - [Elizabeth Zimmerman]({{< relref "/authors/elizabeth-zimmerman" >}}) -->

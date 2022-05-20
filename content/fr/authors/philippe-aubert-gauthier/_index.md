@@ -27,4 +27,5 @@ Elit exercitation eu occaecat velit ad.
 
 # À la conférence
 
+- [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}})
 - [**Atelier 2:** *"Expansion de la spatialisation sonore grâce aux capacités acoustiques virtuelles du MMR"*]({{< relref "/session/fri/workshop-2.md" >}})

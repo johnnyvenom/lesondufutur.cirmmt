@@ -16,10 +16,16 @@ tags: ["Thursday", "Panel"]
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 
-## Overview
+## Aperçu
 
 - CIRMMT Axe de Recherche 4 : Pratique musicale étendu
 
-## Présentateur
+## Intervenants
 
+- [Myriam Boucher]({{< relref "/authors/myriam-boucher" >}})
+- Robert Hasegawa
+- Aaron Liu-Rosenbaum
+- [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}})
+- Jean Piché
+- [Dominic Thibault]({{< relref "/authors/dominic-thibault" >}})
 - [Marcelo M. Wanderley]({{< relref "/authors/marcelo-wanderley" >}})

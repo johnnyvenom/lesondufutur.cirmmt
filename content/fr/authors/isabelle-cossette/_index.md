@@ -26,4 +26,5 @@ Directrice du Centre interdisciplinaire de recherche en musique, médias et tech
 
 # À la conférence
 
+- [**Panel 3:** *"Axe de recherche 3 : Cognition, perception et mouvement"*]({{< relref "/session/thu/panel-3.md" >}})
 - [**Session interactive 7** *"Ensemble vers une éducation globale et plus saine pour les musiciens: Une occasion de briser les barrières ?"*]({{< relref "/session/thu/interactive-session-7.md" >}})

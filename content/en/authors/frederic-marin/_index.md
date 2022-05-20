@@ -26,4 +26,5 @@ Since 2009, Frédéric Marin is Professor in the Laboratory for Biomechanics and
 
 # At the conference
 
+- [**Panel 3:** *"Research Axis 3: Cognition, perception and movement"*]({{< relref "/session/thu/panel-3.md" >}})
 - [**Interactive Session 9** *"Motion capture with inertial sensors for ecological application"*]({{< relref "/session/fri/interactive-session-9.md" >}})

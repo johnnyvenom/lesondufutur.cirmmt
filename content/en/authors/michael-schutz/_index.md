@@ -28,5 +28,5 @@ Michael Schutz is Professor of Music Cognition/Percussion at McMaster University
 
 # At the conference
 
-- [**Panel 3:** *"Research Axis 3: Cognition, perception and movement"*]({{< relref "/session/thu/panel-3.md" >}}) with [Elizabeth Zimmerman]({{< relref "/authors/elizabeth-zimmerman" >}})
+- [**Panel 3:** *"Research Axis 3: Cognition, perception and movement"*]({{< relref "/session/thu/panel-3.md" >}})
 - [**Interactive session 2:** *"Music Psychology and Performing Musicians: a Dialogue"*]({{< relref "/session/wed/interactive-session-2.md" >}})

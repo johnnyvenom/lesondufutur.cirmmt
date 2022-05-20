@@ -26,4 +26,5 @@ Suresh Krishna is an Associate Professor in the Department of Physiology at McGi
 
 # At the conference
 
+- [**Panel 3:** *"Research Axis 3: Cognition, perception and movement"*]({{< relref "/session/thu/panel-3.md" >}})
 - [**Interactive session 6** *"Music, embodied and embrained"*]({{< relref "/session/thu/interactive-session-6.md" >}}) with Fabrice Marandola, Floris van Vugt, Craig Turner, Simone Dalla Bella, Jéremie Voix, and Mickael Deroche

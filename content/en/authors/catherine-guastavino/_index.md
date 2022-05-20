@@ -26,4 +26,5 @@ Prof. Catherine Guastavino (McGill University & CIRMMT) directs the Sounds in th
 
 # At the conference
 
+- [**Panel 2:** *"Research Axis 2: Music Information Research"*]({{< relref "/session/wed/panel-2.md" >}})
 - [**Interactive session 3:** *"Sound Art after COVID: can participatory sound art initiatives lead to a new understanding of sound environments in urban settings?"*]({{< relref "/session/wed/interactive-session-3.md" >}})

@@ -1,7 +1,7 @@
 ---
 
 title: "Interactive Session 1: Electronic Garments as Interfaces for Sound Art"
-summary: " Wednesday | 14:15 - 16:15 | TBD (UdeM)"
+summary: " Wednesday | 14:45 - 16:15 | B399 (UdeM)"
 weight: 240
 tags: ["Wednesday", "Interactive session"]
 
@@ -12,9 +12,9 @@ tags: ["Wednesday", "Interactive session"]
 | | |
 | - | - |
 | **Day:** | Wednesday |
-| **Time:** | 14:15 - 16:15 |
+| **Time:** | 14:45 - 16:15 |
 | **Location:** | Université de Montréal |
-| **Room:** | TBD |
+| **Room:** | B399 |
 
 ## Title
 
@@ -22,10 +22,8 @@ tags: ["Wednesday", "Interactive session"]
 
 ## Presenter
 
-- [Joanna Berzowska]({{< relref "/authors/joanna-berzowska" >}}) <!-- need people page -->
+- [Joanna Berzowska]({{< relref "/authors/joanna-berzowska" >}})
 
-<!--
 ## Description
 
-Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incididunt fugiat amet quis deserunt quis laborum duis excepteur dolor velit. Anim incididunt eu aute velit proident. Nulla amet dolore culpa ad Lorem id cupidatat velit esse sint. 
--->
+This interactive session will outline the potential of wearable computing, specifically electronic garments, as an inherently intuitive interface for the creation of soundscapes using a "peripheral" style of interaction. We argue that garments offer an ideal model for the study of interactions that seamlessly shift between the focus and the periphery of awareness, based on the long history of clothing as an interface through which we navigate the world. Given the varied intensities of sensory stimulus perceived on the human body, garments provide the potential for embedding interaction in more central as well as more peripheral areas, with varying sensory attributes of stimulus: modality, intensity, location, and duration. In addition, human beings have historically developed the expertise to wear cumbersome, high performance, or domain specific clothing necessary in the performance of highly specialized tasks (such as undersea diving, running a marathon, or playing an instrument), and focusing fully on those tasks while the clothing remains in the background or periphery of awareness. We present several XS Labs electronic garments and the ways that they engage with sound-making. We will bring an assortment of electronic textile samples and interactive garments to discuss technical implementations and brainstorm possible future projects and collaborations.

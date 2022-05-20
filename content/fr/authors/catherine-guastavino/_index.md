@@ -27,5 +27,6 @@ Catherine Guastavino est professeure à l’Université McGill et membre du CIRM
 
 # À la conférence
 
+- [**Panel 2:** *"Axe de recherche 2 : Recherche sur l'information musicale"*]({{< relref "/session/wed/panel-2.md" >}})
 - [**Session interactive 3:** *"L'art sonore après le COVID : les initiatives participatives d'art sonore peuvent-elles conduire à une nouvelle compréhension des environnements sonores en milieu urbain ?
 "*]({{< relref "/session/wed/interactive-session-3.md" >}})

@@ -1,7 +1,7 @@
 ---
 
 title: "Interactive Session 2: Music Psychology and Performing Musicians"
-summary: " Wednesday | 14:15 - 16:15 | TBD (UdeM)"
+summary: " Wednesday | 14:45 - 16:15 | B379 (UdeM)"
 weight: 241
 tags: ["Wednesday", "Interactive session"]
 
@@ -12,9 +12,9 @@ tags: ["Wednesday", "Interactive session"]
 | | |
 | - | - |
 | **Day:** | Wednesday |
-| **Time:** | 14:15 - 16:15 |
+| **Time:** | 14:45 - 16:15 |
 | **Location:** | Université de Montréal |
-| **Room:** | TBD |
+| **Room:** | B379 |
 
 ## Title
 

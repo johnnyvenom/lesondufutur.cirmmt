@@ -27,4 +27,5 @@ Elit exercitation eu occaecat velit ad.
 
 # À la conférence
 
-- [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}}), avec [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}})
+<!-- - [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}}), avec [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}}) -->
+- [**Panel 2:** *"Axe de recherche 2 : Recherche sur l'information musicale"*]({{< relref "/session/wed/panel-2.md" >}})

@@ -28,6 +28,7 @@ Myriam Boucher est une artiste audio-visuelle basée à Montréal (Canada). Son 
 # À la conférence
 
 - [**Concert 2: Hommage à Xenakis** *"PolytopeXXI"*]({{< relref "/session/wed/concert-2.md" >}}), avec [ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}}) et [Dominic Thibault]({{< relref "/authors/dominic-thibault" >}})
+- [**Panel 4:** *"Axe de recherche 4 : Pratique musicale élargie"*]({{< relref "/session/thu/panel-4.md" >}})
 
 # Artist page
 

@@ -28,4 +28,5 @@ user_groups:
 - Associate director of artistic research, [Centre for Interdisciplinary Research in Music, Media and Technology](https://www.cirmmt.org).
 # At the conference
 
+- [**Introduction & Panel 1** *"Research Axis 1: Instruments, devices & systems"*]({{< relref "/session/wed/panel-1.md" >}})
 - [**Workshop 2:** *"Expanding sound spatialization with virtual acoustic capabilities of the MMR"*]({{< relref "/session/fri/workshop-2.md" >}})

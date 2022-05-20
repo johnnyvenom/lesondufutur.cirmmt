@@ -42,22 +42,21 @@ draft: false
 | ----------- | ----------------- | ----------------- | ----------------------- |
 |             |                   |                   |                         |
 | *8h30-9h*   | *Table d'accueil*   | *Foyer*           |
-| 9h-10h15  | [Intro + Panel: RA1]({{< relref "/session/wed/panel-1.md" >}}) | *à préciser* | Buffoni/Dutoit |
+| 9h-10h15  | [Intro + Panel: RA1]({{< relref "/session/wed/panel-1.md" >}}) | B412 | Buffoni/Dutoit |
 | 10h15-11h | [Discours liminaire 2]({{< relref "/session/wed/keynote-2.md" >}}) | B421 | A. Fleischer | 
-| *11h-11h30* | *Pause café*    | *à préciser* |
-| 11h30-12h30 | [Panel: RA2]({{< relref "/session/wed/panel-2.md" >}}) | *à préciser* | G. Boutard |
+| *11h-11h30* | *Pause café*    | *Foyer* |
+| 11h30-12h30 | [Panel: RA2]({{< relref "/session/wed/panel-2.md" >}}) | B421 | G. Boutard |
 | 12h30-14h | *Déjeuner*           | *Foyer* |
 | 14h-14h45 | [Discours liminaire 3]({{< relref "/session/wed/keynote-3.md" >}}) | B421 | Choi/Bargar |
-| 14h45-16h15 | [Interactive 1]({{< relref "/session/wed/interactive-session-1.md" >}}) | *à préciser* | J. Berzowska |
-|             | [Interactive 2]({{< relref "/session/wed/interactive-session-2.md" >}}) | *à préciser* | M. Schutz |
-|             | [Interactive 3]({{< relref "/session/wed/interactive-session-3.md" >}}) | *à préciser* | C. Guastavino |
-| *16h15-16h45* | *Pause café*    | *à préciser* |
+| 14h45-16h15 | [Interactive 1]({{< relref "/session/wed/interactive-session-1.md" >}}) | B399 | J. Berzowska |
+|             | [Interactive 2]({{< relref "/session/wed/interactive-session-2.md" >}}) | B379 | M. Schutz |
+|             | [Interactive 3]({{< relref "/session/wed/interactive-session-3.md" >}}) | B521 | C. Guastavino |
+| *16h15-16h45* | *Pause café*    | *Foyer* |
 | 16h45-17h30 | [Table ronde 1]({{< relref "/session/wed/round-table-1.md" >}}) | B421 |
 | 17h30-18h30 | [Atelier 1]({{< relref "/session/wed/workshop-1.md" >}})        | B-187 (Spat-GRIS) | Frisoli/Giannini |
 |             | [Interactive 4 ]({{< relref "/session/wed/interactive-session-4.md" >}}) | *à préciser* | Barnat/Traube/Léotar |
 | *18h30-19h30* | *Aperitif/dîner* | *Foyer* |
-| 19h30-21h00    | [Concert 2]({{< relref "/session/wed/concert-2.md" >}}) | Claude Champagne  | Nouvel Ensemble Moderne | 
-|             |                   |                   | SIXTRUM/Thibaut/Boucher |
+| 19h30-21h00    | [Concert 2]({{< relref "/session/wed/concert-2.md" >}}) | Claude Champagne  | SIXTRUM/Thibaut/Boucher | 
 | | | | | |
 
 <br>

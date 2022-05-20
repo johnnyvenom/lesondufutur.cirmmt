@@ -26,4 +26,5 @@ Director of the Centre for Interdisciplinary Research in Music Media and Technol
 
 # At the conference
 
+- [**Panel 3:** *"Research Axis 3: Cognition, perception and movement"*]({{< relref "/session/thu/panel-3.md" >}})
 - [**Interactive session 7** *"Together towards a global and healthier education for musicians"*]({{< relref "/session/thu/interactive-session-7.md" >}})
