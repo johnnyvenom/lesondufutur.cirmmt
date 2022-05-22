@@ -1,7 +1,7 @@
 ---
 
 title: "Table ronde 3 et conclusion"
-summary: "Vendredi | 14:00 - 16:00 | Tanna Hall (McGill)"
+summary: "Vendredi | 14h00 - 16h00 | Tanna Hall (McGill)"
 weight: 420
 tags: ["Friday", "Round table"]
 
@@ -12,7 +12,7 @@ tags: ["Friday", "Round table"]
 | | |
 | - | - |
 | **Jour:** | Vendredi |
-| **Heure:** | 14:00 - 16:00 |
+| **Heure:** | 14h00 - 16h00 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 

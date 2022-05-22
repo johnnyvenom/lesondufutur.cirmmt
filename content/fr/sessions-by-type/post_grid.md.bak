@@ -28,7 +28,7 @@ content:
       tag: Concert
     - name: Sessions interactives
       tag: Interactive session
-    - name: Discours liminaires
+    - name: Conférence invitées
       tag: Keynote
     - name: Panneaux et présentations
       tag: Panel

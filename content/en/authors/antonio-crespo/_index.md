@@ -7,11 +7,11 @@ authors:
 - "antonio-crespo"
 
 # Role/position
-role:
+role: Director
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Musitechnic Community and Research Center
   url: ""
 
 # Organizational groups that you belong to (for People widget)

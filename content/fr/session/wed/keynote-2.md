@@ -1,7 +1,7 @@
 ---
 
-title: "Keynote 2: Alain Fleisher"
-summary: "Wednesday | 10:15 - 11:00 | B421 (UdeM)"
+title: "Conférence invitée 2 : Alain Fleisher"
+summary: "Wednesday | 10h15 - 11h00 | B421 (UdeM)"
 weight: 210
 tags: ["Wednesday", "Keynote"]
 
@@ -12,7 +12,7 @@ tags: ["Wednesday", "Keynote"]
 | | |
 | - | - |
 | **Jour:** | Wednesday |
-| **Heure:** | 10:15 - 11:00 |
+| **Heure:** | 10h15 - 11h00 |
 | **Localisation:** | Université de Montréal |
 | **Salle:** | B421 |
 

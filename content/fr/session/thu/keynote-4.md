@@ -1,7 +1,7 @@
 ---
 
-title: "Discours liminaire 4: Sidney Fels"
-summary: "Jeudi | 10:00 - 10:45 | Tanna Hall (McGill)"
+title: "Conférence invitée 4 : Sidney Fels"
+summary: "Jeudi | 10h00 - 10h45 | Tanna Hall (McGill)"
 weight: 310
 tags: ["Thursday", "Keynote"]
 
@@ -12,11 +12,11 @@ tags: ["Thursday", "Keynote"]
 | | |
 | - | - |
 | **Jour:** | Jeudi |
-| **Heure:** | 10:00 - 10:45 |
+| **Heure:** | 10h00 - 10h45 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 
-## Speaker 
+## Orateur principal 
 
 - [Sidney Fels]({{< relref "/authors/sidney-fels" >}})
 

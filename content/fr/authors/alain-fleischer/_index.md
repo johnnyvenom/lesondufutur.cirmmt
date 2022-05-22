@@ -29,4 +29,4 @@ Après des études de lettres, linguistique, sémiologie et anthropologie à la 
 
 # À la conférence
 
-- [**Discours liminare 2:** *"Transfert de formes / Transfert de sens"*]({{< relref "/session/wed/keynote-2.md">}})
+- [**Conférence invitée 2:** *"Transfert de formes / Transfert de sens"*]({{< relref "/session/wed/keynote-2.md">}})

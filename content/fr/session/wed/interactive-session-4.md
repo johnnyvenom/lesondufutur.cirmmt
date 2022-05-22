@@ -1,7 +1,7 @@
 ---
 
 title: "Session interactive 4 : En immersion audiovisuelle au coeur de la performance musicale"
-summary: " Mercredi | 17:30 - 18:30 | à préciser (UdeM)"
+summary: " Mercredi | 17h30 - 18h30 | à préciser (UdeM)"
 weight: 265
 tags: ["Wednesday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Wednesday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Mercredi |
-| **Heure:** | 17:30 - 18:30 |
+| **Heure:** | 17h30 - 18h30 |
 | **Localisation:** | Université de Montréal |
 | **Salle:** | B187 (Spat-Gris) |
 

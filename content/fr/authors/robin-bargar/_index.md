@@ -26,4 +26,4 @@ user_groups:
 
 # À la conférence
 
-- [**Discours liminare 3:** *"Où coder les informations musicales"*]({{< relref "/session/wed/keynote-3.md">}}), avec [Insook Choi]({{< relref "/authors/insook-choi">}})
+- [**Conférence invitée 3:** *"Où coder les informations musicales"*]({{< relref "/session/wed/keynote-3.md">}}), avec [Insook Choi]({{< relref "/authors/insook-choi">}})

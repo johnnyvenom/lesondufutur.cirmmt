@@ -1,7 +1,7 @@
 ---
 
 title: "Concert 2: Tribute to Iannis Xenakis"
-summary: "Wednesday | 20:00 - 21:30 | Salle Claude-Champagne (UdeM)"
+summary: "Wednesday | 19:30 - 21:00 | Salle Claude-Champagne (UdeM)"
 weight: 270
 tags: ["Wednesday", "Concert"]
 

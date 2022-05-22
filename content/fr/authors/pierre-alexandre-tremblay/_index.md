@@ -32,4 +32,4 @@ Il a étudié la composition, la guitare basse, l'analyse et la production en st
 
 # À la conférence
 
-- [**Discours liminare 1:** *"Au-delà de la cohabitation : vers une interdisciplinarité riche en recherche musicale et en technologie"*]({{< relref "/session/tue/keynote-1.md">}})
+- [**Conférence invitée 1:** *"Au-delà de la cohabitation : vers une interdisciplinarité riche en recherche musicale et en technologie"*]({{< relref "/session/tue/keynote-1.md">}})

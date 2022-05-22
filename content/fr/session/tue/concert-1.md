@@ -1,7 +1,7 @@
 ---
 
-title: "Concert 1: improv@CIRMMT"
-summary: "Mardi | 20:00 - 21:00 | Tanna Hall (McGill)"
+title: "Concert 1 : improv@CIRMMT"
+summary: "Mardi | 20h00 - 21h00 | Tanna Hall (McGill)"
 weight: 80
 tags: ["COBS", "Concert", "Tuesday"]
 
@@ -12,7 +12,7 @@ tags: ["COBS", "Concert", "Tuesday"]
 | | |
 | - | - |
 | **Jour:** | Mardi |
-| **Heure:** | 20:00 - 21:00 |
+| **Heure:** | 20h00 - 21h00 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Session interactive 2: Psychologie musicale et musiciens interprètes : un dialogue"
-summary: " Wednesday | 14:45 - 16:15 | B379 (UdeM)"
+title: "Session interactive 2 : Psychologie musicale et musiciens interprètes : un dialogue"
+summary: " Wednesday | 14h45 - 16h15 | B379 (UdeM)"
 weight: 241
 tags: ["Wednesday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Wednesday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Wednesday |
-| **Heure:** | 14:45 - 16:15 |
+| **Heure:** | 14h45 - 16h15 |
 | **Localisation:** | Université de Montréal |
 | **Salle:** | B379 |
 

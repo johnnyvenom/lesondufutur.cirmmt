@@ -1,7 +1,7 @@
 ---
 
-title: "Session interactive 1: Les vêtements électroniques comme interfaces pour l'art sonore"
-summary: " Wednesday | 14:45 - 16:15 | B399 (UdeM)"
+title: "Session interactive 1 : Les vêtements électroniques comme interfaces pour l'art sonore"
+summary: " Wednesday | 14h45 - 16h15 | B399 (UdeM)"
 weight: 240
 tags: ["Wednesday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Wednesday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Wednesday |
-| **Heure:** | 14:45 - 16:15 |
+| **Heure:** | 14h45 - 16h15 |
 | **Localisation:** | Université de Montréal |
 | **Salle:** | B399 |
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Discours liminaire 5:  Louis-Xavier Buffoni"
-summary: "Jeudi | 14:15 - 15:00 | Tanna Hall (McGill)"
+title: "Conférence invitée 5 :  Louis-Xavier Buffoni"
+summary: "Jeudi | 14h15 - 15h00 | Tanna Hall (McGill)"
 weight: 340
 tags: ["Thursday", "Keynote"]
 
@@ -12,11 +12,11 @@ tags: ["Thursday", "Keynote"]
 | | |
 | - | - |
 | **Jour:** | Jeudi |
-| **Heure:** | 14:15 - 15:00 |
+| **Heure:** | 14h15 - 15h00 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 
-## Speaker 
+## Orateur prinicipal 
 
 - [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}})
 

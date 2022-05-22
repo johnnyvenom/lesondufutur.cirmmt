@@ -23,7 +23,7 @@ tags: ["Wednesday", "Panel"]
 
 ## Presenters
 
-- [Guillaume Boutard]({{< relref "/authors/guillaume-boutard" >}})
+- **[Guillaume Boutard]({{< relref "/authors/guillaume-boutard" >}})**
 - Mickael Deroche
 - [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}})
 - [Catherine Guastavino]({{< relref "/authors/catherine-guastavino" >}})

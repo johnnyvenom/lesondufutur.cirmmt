@@ -1,7 +1,7 @@
 ---
 
-title: "Session CCOB 5: Présentations d'étudiants"
-summary: "Mardi | 15:30 - 16:30 | Tanna Hall (McGill)"
+title: "Session CCOB 5 : Présentations d'étudiants"
+summary: "Mardi | 15h30 - 16h30 | Tanna Hall (McGill)"
 weight: 60
 tags: ["COBS", "Tuesday"]
 
@@ -12,7 +12,7 @@ tags: ["COBS", "Tuesday"]
 | | |
 | - | - |
 | **Jour:** | Mardi |
-| **Heure:** | 15:30 - 16:30 |
+| **Heure:** | 15h30 - 16h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Session interactive 10: Production musicale 3D"
-summary: "Vendredi | 11:00 - 12:30 | C-201/Studio 22 (McGill)"
+title: "Session interactive 10 : Production musicale 3D"
+summary: "Vendredi | 11h00 - 12h30 | C-201/Studio 22 (McGill)"
 weight: 410
 tags: ["Friday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Friday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Vendredi |
-| **Heure:** | 11:00 - 12:30 |
+| **Heure:** | 11h00 - 12h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | C-201/Studio 22 |
 

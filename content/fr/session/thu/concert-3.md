@@ -1,7 +1,7 @@
 ---
 
-title: "Concert 3: live@CIRMMT"
-summary: "Jeudi | 19:30 - 21:00 | MMR (McGill)"
+title: "Concert 3 : live@CIRMMT"
+summary: "Jeudi | 19h30 - 21h00 | MMR (McGill)"
 weight: 370
 tags: ["Thursday", "Concert"]
 
@@ -12,7 +12,7 @@ tags: ["Thursday", "Concert"]
 | | |
 | - | - |
 | **Jour:** | Jeudi |
-| **Heure:** | 19:30 - 21:00 |
+| **Heure:** | 19h30 - 21h00 |
 | **Localisation:** | Université McGill |
 | **Salle:** | MMR |
 

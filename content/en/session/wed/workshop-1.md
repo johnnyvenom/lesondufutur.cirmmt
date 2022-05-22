@@ -27,4 +27,4 @@ tags: ["Wednesday", "Workshop"]
 
 ## Description
 
-The Spatial Immersion Research Group (GRIS) at the Faculty of Music of the Université de Montréal will present the SpatGRIS3 and ControlGRIS tools that allow spatialization of sound with 2D and 3D speaker configurations. During this demonstration, it will be possible to hear spatialized music samples under the speaker dome of the immersive music studio B187 in the Faculty of Music of the Université de Montréal. SpatGRIS and ControlGRIS are free and you can download them here: https://github.com/GRIS-UdeM/SpatGRIS/releases/ 
+The Spatial Immersion Research Group (GRIS) at the Faculty of Music of the Université de Montréal will present the SpatGRIS3 and ControlGRIS tools that allow spatialization of sound with 2D and 3D speaker configurations. During this demonstration, it will be possible to hear spatialized music samples under the speaker dome of the immersive music studio B187 in the Faculty of Music of the Université de Montréal. SpatGRIS and ControlGRIS are free and you can download them here: [github.com/GRIS-UdeM/SpatGRIS/releases/](https://github.com/GRIS-UdeM/SpatGRIS/releases/) 

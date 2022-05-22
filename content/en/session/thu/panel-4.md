@@ -22,8 +22,8 @@ tags: ["Thursday", "Panel"]
 
 ## Presenter
 
+- **Robert Hasegawa**
 - [Myriam Boucher]({{< relref "/authors/myriam-boucher" >}})
-- Robert Hasegawa
 - Aaron Liu-Rosenbaum
 - [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}})
 - Jean Piché

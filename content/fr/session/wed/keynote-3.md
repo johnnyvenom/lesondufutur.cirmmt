@@ -1,7 +1,7 @@
 ---
 
-title: "Keynote 3: I. Choi & R. Bargar"
-summary: "Mercredi | 14:00 - 14:45 | B421 (UdeM)"
+title: "Conférence invitée 3 : I. Choi & R. Bargar"
+summary: "Mercredi | 14h00 - 14h45 | B421 (UdeM)"
 weight: 230
 tags: ["Wednesday", "Keynote"]
 
@@ -12,11 +12,11 @@ tags: ["Wednesday", "Keynote"]
 | | |
 | - | - |
 | **Jour:** | Mercredi |
-| **Heure:** | 14:00 - 14:45 |
+| **Heure:** | 14h00 - 14h45 |
 | **Localisation:** | Université de Montréal |
 | **Salle:** | B421 |
 
-## Intervenants
+## Orateurs principals
 
 - [Insook Choi]({{< relref "/authors/insook-choi" >}})
 - [Robin Bargar]({{< relref "/authors/robin-bargar" >}})

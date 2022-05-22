@@ -7,7 +7,7 @@ authors:
 - "nathalie-fernando"
 
 # Role/position
-role: Professeure, Faculté de musique
+role: Dean, Faculté de musique
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-# - Presenters
+- Presenters
 ---
 
 # About
@@ -29,4 +29,4 @@ De nos jours, aucune société - pas même les plus traditionnelles - ne peut r�
 
 # At the conference
 
-- [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}}), avec [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}) et [Jéremie Voix]({{< relref "/authors/jeremie-voix" >}})
+- [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}})

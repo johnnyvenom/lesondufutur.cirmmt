@@ -1,7 +1,7 @@
 ---
 
-title: "Session CCOB 3: Nouveaux projets"
-summary: "Mardi | 11:30 - 12:15 | Tanna Hall (McGill)"
+title: "Session CCOB 3 : Nouveaux projets"
+summary: "Mardi | 11h30 - 12h15 | Tanna Hall (McGill)"
 weight: 30
 tags: ["COBS", "Tuesday"]
 
@@ -12,7 +12,7 @@ tags: ["COBS", "Tuesday"]
 | | |
 | - | - |
 | **Jour:** | Mardi |
-| **Heure:** | 11:30 - 12:15 |
+| **Heure:** | 11h30 - 12h15 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Session interactive 8: La créativité à la retraite à l'ère du numérique"
-summary: "Vendredi | 9:00 - 10:30 | C-201 (McGill)"
+title: "Session interactive 8 : La créativité à la retraite à l'ère du numérique"
+summary: "Vendredi | 9h00 - 10h30 | C-201 (McGill)"
 weight: 401
 tags: ["Friday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Friday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Vendredi |
-| **Heure:** | 09:00 - 10:30 |
+| **Heure:** | 09h00 - 10h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | C-201 |
 

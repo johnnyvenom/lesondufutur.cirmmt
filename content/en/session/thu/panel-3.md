@@ -22,10 +22,12 @@ tags: ["Thursday", "Panel"]
 
 ## Presenters
 
+- **[Caroline Traube]({{< relref "/authors/caroline-traube" >}})**
 - [Joanna Berzowska]({{< relref "/authors/joanna-berzowska">}})
 - [Isabelle Cossette]({{< relref "/authors/isabelle-cossette">}})
 - Julie Cumming
 - Andrea Creech
+- Mickael Deroche
 - [Suresh Krishna]({{< relref "/authors/suresh-krishna">}})
 - [Frédéric Marin]({{< relref "/authors/frederic-marin">}})
 - [Michael Schutz]({{< relref "/authors/michael-schutz">}})

@@ -1,7 +1,7 @@
 ---
 
 title: "Session Interactive 3 : Discussion sur l’art sonore dans l’espace public"
-summary: " Mercredi | 14:45 - 16:15 | B521 (UdeM)"
+summary: " Mercredi | 14h45 - 16h15 | B521 (UdeM)"
 weight: 242
 tags: ["Wednesday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Wednesday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Mercredi |
-| **Heure:** | 14:45 - 16:15 |
+| **Heure:** | 14h45 - 16h15 |
 | **Localisation:** | Université de Montréal |
 | **Salle:** | B521 |
 

@@ -1,7 +1,7 @@
 ---
 
 title: "Session interactive 5 : Des perspectives féministes pour renforcer les partenariats mondiaux"
-summary: "Jeudi | 15:00 - 16:30 | McGill"
+summary: "Jeudi | 15h00 - 16h30 | McGill"
 weight: 350
 tags: ["Thursday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Thursday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Jeudi |
-| **Heure:** | 15:00 - 16:30 |
+| **Heure:** | 15h00 - 16h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | C-201 |
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Discours liminale 1: P. A. Tremblay"
-summary: "Mardi | 12:15 - 13:00 | Tanna Hall (McGill)"
+title: "Conférence invitée 1 : P. A. Tremblay"
+summary: "Mardi | 12h15 - 13h00 | Tanna Hall (McGill)"
 weight: 40
 tags: ["COBS", "Keynote", "Tuesday"]
 
@@ -12,7 +12,7 @@ tags: ["COBS", "Keynote", "Tuesday"]
 | | |
 | - | - |
 | **Jour:** | Mardi |
-| **Heure:** | 12:15 - 13:00 |
+| **Heure:** | 12h15 - 13h00 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 

@@ -21,13 +21,10 @@ user_groups:
 # - Presenters
 ---
 
-<!--
 # À propos
 
-Elit exercitation eu occaecat velit ad.
--->
+Louis-Xavier Buffoni dirige les équipes de recherche d'Audiokinetic et se concentre sur l'audio spatial, la synthèse sonore, le codage audio et l'apprentissage automatique.
 
 # À la conférence
 
-- [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}}), with [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}})
-- [**Discours liminare 5:** *"The Future of Interactive Audio"*]({{< relref "/session/thu/keynote-5.md" >}})
+- [**Conférence invitée 5:** *"La futur du son interactif"*]({{< relref "/session/thu/keynote-5.md" >}})

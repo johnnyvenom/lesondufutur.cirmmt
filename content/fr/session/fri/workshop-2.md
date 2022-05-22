@@ -1,7 +1,7 @@
 ---
 
-title: "Atelier 2: L’expansion de la spatialisation du son dans le MMR"
-summary: "Vendredi | 9:00 - 10:30 | MMR (McGill)"
+title: "Atelier 2 : L’expansion de la spatialisation du son dans le MMR"
+summary: "Vendredi | 9h00 - 10h30 | MMR (McGill)"
 weight: 400
 tags: ["Friday", "Workshop"]
 ---
@@ -11,7 +11,7 @@ tags: ["Friday", "Workshop"]
 | | |
 | - | - |
 | **Jour:** | Vendredi |
-| **Heure:** | 09:00 - 10:30 |
+| **Heure:** | 09h00 - 10h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | MMR |
 

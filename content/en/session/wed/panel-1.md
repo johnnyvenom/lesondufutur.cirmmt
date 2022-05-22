@@ -17,21 +17,21 @@ tags: ["Wednesday", "Panel"]
 | **Location:** | Université de Montréal |
 | **Room:** | B421 |
 
-## Overview
+# Introduction (15 min)
 
-- Conference introduction
+- [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}})
+- [Nathalie Fernando]({{< relref "/authors/nathalie-fernando" >}})
+
+# Panel
+
 - CIRMMT Research Axis 1: Instruments, devices & systems
 
 ## Presenters
 
-<!-- - [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}})
-- [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}}) -->
-- [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}) (Introduction)
-<!-- - [Nathalie Fernando]({{< relref "/authors/nathalie-fernando" >}}) -->
+- **[Jéremie Voix]({{< relref "/authors/jeremie-voix" >}})**
 - Alain Berry
 - Nicolas Bouillot
 - Thibaut Carpentier
 - [Philippe-Aubert Gauthier]({{< relref "/authors/philippe-aubert-gauthier" >}})
 - [Amandine Pras]({{< relref "/authors/amandine-pras" >}})
 - Gary Scavone
-- [Jéremie Voix]({{< relref "/authors/jeremie-voix" >}})

@@ -30,4 +30,4 @@ Dr Véronique Larcher est titulaire d'un doctorat en audio 3D pour la réalité 
 
 # À la conférence
 
-- **Discours liminare:** *à préciser*
+- **Conférence invitée:** *à préciser*

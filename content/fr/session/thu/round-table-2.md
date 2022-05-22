@@ -1,7 +1,7 @@
 ---
 
 title: "Table ronde 2"
-summary: "Jeudi | 17:00 - 17:45 | Tanna Hall (McGill)"
+summary: "Jeudi | 17h00 - 17h45 | Tanna Hall (McGill)"
 weight: 360
 tags: ["Thursday", "Round table"]
 
@@ -12,7 +12,7 @@ tags: ["Thursday", "Round table"]
 | | |
 | - | - |
 | **Jour:** | Jeudi |
-| **Heure:** | 17:00 - 17:45 |
+| **Heure:** | 17h00 - 17h45 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 

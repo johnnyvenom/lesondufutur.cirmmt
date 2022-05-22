@@ -19,7 +19,7 @@ organizations:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Presenter
+- Presenters
 ---
 
 <!--
@@ -31,6 +31,6 @@ Elit exercitation eu occaecat velit ad.
 # At the conference
 
 - [**Introduction & Panel 1** *"Axe de recherche 1 : Instruments, dispositifs et systèmes"*]({{< relref "/session/wed/panel-1.md" >}})
-- [**Interactive session 6** *"La musique, incarnée et enracinée"*]({{< relref "/session/thu/interactive-session-6.md" >}}) avec [Suresh Krishna]({{< relref "/authors/suresh-krishna" >}}, Floris van Vugt, Craig Turner, Simone Dalla Bella, [Jéremie Voix]({{< relref "/authors/jeremie-voix" >}}), et Mickael Deroche
+- [**Interactive session 6** *"La musique, incarnée et enracinée"*]({{< relref "/session/thu/interactive-session-6.md" >}}) avec [Suresh Krishna]({{< relref "/authors/suresh-krishna" >}}), Floris van Vugt, Craig Turner, Simone Dalla Bella, [Jéremie Voix]({{< relref "/authors/jeremie-voix" >}}), et Mickael Deroche
 - [**Concert 2:**]({{< relref "/session/wed/concert-2" >}}) *"PolytopeXXI"* avec [ensemble SIXTRUM]({{< relref "/authors/ensemble-sixtrum" >}})
 - [**Panel 4:** *"Axe de recherche 4 : Pratique musicale élargie"*]({{< relref "/session/thu/panel-4.md" >}})

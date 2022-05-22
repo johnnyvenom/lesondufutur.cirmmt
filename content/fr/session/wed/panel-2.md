@@ -1,7 +1,7 @@
 ---
 
-title: "Panel: Axe de recherche 2"
-summary: "Mercredi | 11:30 - 12:30 | B421 (UdeM)"
+title: "Panel : Axe de recherche 2"
+summary: "Mercredi | 11h30 - 12h30 | B421 (UdeM)"
 
 weight: 220
 tags: ["Wednesday", "Panel"]
@@ -13,7 +13,7 @@ tags: ["Wednesday", "Panel"]
 | | |
 | - | - |
 | **Jour:** | Mercredi |
-| **Heure:** | 11:30 - 12:30 |
+| **Heure:** | 11h30 - 12h30 |
 | **Localisation:** | Université de Montréal |
 | **Salle:** | B421 |
 
@@ -23,7 +23,7 @@ tags: ["Wednesday", "Panel"]
 
 ## Intervenants
 
-- [Guillaume Boutard]({{< relref "/authors/guillaume-boutard" >}})
+- **[Guillaume Boutard]({{< relref "/authors/guillaume-boutard" >}})**
 - Mickael Deroche
 - [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}})
 - [Catherine Guastavino]({{< relref "/authors/catherine-guastavino" >}})

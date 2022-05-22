@@ -1,7 +1,7 @@
 ---
 
 title: "Affiches 1 / Pause Café"
-summary: "Mardi | 16:30 - 17:30 | Wirth Lobby (McGill)"
+summary: "Mardi | 16h30 - 17h30 | Wirth Lobby (McGill)"
 weight: 70
 tags: ["COBS", "poster","Tuesday"]
 
@@ -13,7 +13,7 @@ tags: ["COBS", "poster","Tuesday"]
 | | |
 | - | - |
 | **Jour:** | Mardi |
-| **Heure:** | 16:30 - 17:30 |
+| **Heure:** | 16h30 - 17h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Wirth Lobby |
 

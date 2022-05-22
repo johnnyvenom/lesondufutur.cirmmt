@@ -1,7 +1,7 @@
 ---
 
-title: "Session interactive 11: L'intelligence artificielle façonne de nouvelles réalités"
-summary: "Vendredi | 11:00 - 12:30 | C-201/Studio 22 (McGill)"
+title: "Session interactive 11 : L'intelligence artificielle façonne de nouvelles réalités"
+summary: "Vendredi | 11h00 - 12h30 | C-201/Studio 22 (McGill)"
 weight: 415
 tags: ["Friday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Friday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Vendredi |
-| **Heure:** | 11:00 - 12:30 |
+| **Heure:** | 11h00 - 12h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | C-201/Studio 22 |
 
@@ -23,7 +23,11 @@ L'intelligence artificielle à l'origine de nouvelles réalités : que peut-on a
 
 ## Présentateur
 
-- [Antonio Crespo]({{< relref "/authors/antonio-crespo" >}})
+- **[Antonio Crespo]({{< relref "/authors/antonio-crespo" >}}) (Director of the Musitechnic Community and Research Center, Director of Programs – College Musitechnic, Member of the Board of Directors – DreamerGate R&D Ent. Inc.)**
+- Ann-Louise Davidson (Associate Professor of Education and Concordia University Research Chair in Maker Culture, Director of Concordia University Innovation Lab, Associate Director of the Milieux Institute for Arts, Culture and Technology)
+- Jérôme Minière (Instrumentalist, Singer, Writer and Composer)
+- Arianna Mazzeo (Researcher at MERIT - McMaster Education Research, Innovation & Theory Program; Researcher of Practice in Design, Art, and Technology at MIT, Senior Research Fellow at the Rhode Island School of Design, Director of the Design Fiction Studio)
+- Nicholas Laroche (Co-founder and CTO of BeatConnect. Professional Music Producer, Senior Project Manager – software development at BIXI. Senior Product owner at Connect&GO, Senior Product Owner at CBC/Radio-Canada)
 
 ## Description
 

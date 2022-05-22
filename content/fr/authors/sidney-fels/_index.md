@@ -33,4 +33,4 @@ Sid Fels : (Prof, ECE, Colombie-Britannique, 1998-) ; PhD (CS, Toronto, 1994) ; 
 
 # À la conférence
 
-- [**Discours liminare 4:** *"Briser la barrière entre le cerveau et le son : Tirer parti du continuum corps-esprit pour l'expression musicale"*]({{< relref "/session/thu/keynote-4.md" >}})
+- [**Conférence invitée 4:** *"Briser la barrière entre le cerveau et le son : Tirer parti du continuum corps-esprit pour l'expression musicale"*]({{< relref "/session/thu/keynote-4.md" >}})

@@ -1,7 +1,7 @@
 ---
 
 title: "Table ronde 1"
-summary: "Mercredi | 16:45 - 17:30 | B421 (UdeM)"
+summary: "Mercredi | 16h45 - 17h30 | B421 (UdeM)"
 weight: 250
 tags: ["Wednesday", "Round table"]
 
@@ -12,7 +12,7 @@ tags: ["Wednesday", "Round table"]
 | | |
 | - | - |
 | **Jour:** | Mercredi |
-| **Heure:** | 16:45 - 17:30 |
+| **Heure:** | 16h45 - 17h30 |
 | **Localisation:** | Université de Montréal |
 | **Salle:** | B421 |
 

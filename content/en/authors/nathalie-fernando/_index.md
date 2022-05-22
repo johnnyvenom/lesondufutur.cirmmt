@@ -7,7 +7,7 @@ authors:
 - "nathalie-fernando"
 
 # Role/position
-role: Professor, Faculty of Music
+role: Dean, Faculty of Music
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-# - Presenters
+- Presenters
 ---
 
 # About
@@ -32,4 +32,4 @@ The three themes are (1) globalization phenomena, (2) the integration of musical
 
 # At the conference
 
-- [**Introduction & Panel 1** *"Research Axis 1: Instruments, devices & systems"*]({{< relref "/session/wed/panel-1.md" >}}), with [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}}) and [Jéremie Voix]({{< relref "/authors/jeremie-voix" >}})
+- [**Introduction & Panel 1** *"Research Axis 1: Instruments, devices & systems"*]({{< relref "/session/wed/panel-1.md" >}})

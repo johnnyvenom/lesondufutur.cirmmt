@@ -21,11 +21,9 @@ user_groups:
 # - Presenters
 ---
 
-<!--
 # About
 
-Elit exercitation eu occaecat velit ad.
--->
+Louis-Xavier Buffoni leads the research teams at Audiokinetic and has been focusing on spatial audio, sound synthesis, audio coding and machine learning.
 
 # At the conference
 

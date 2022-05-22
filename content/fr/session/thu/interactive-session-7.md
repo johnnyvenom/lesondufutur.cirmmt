@@ -1,7 +1,7 @@
 ---
 
-title: "Session interactive 7: Ensemble, vers une éducation holistique et plus saine en matière d'interprétation musicale"
-summary: "Jeudi | 15:00 - 16:30 | A-832 (McGill)"
+title: "Session interactive 7 : Ensemble, vers une éducation holistique et plus saine en matière d'interprétation musicale"
+summary: "Jeudi | 15h00 - 16h30 | A-832 (McGill)"
 weight: 352
 tags: ["Thursday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Thursday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Jeudi |
-| **Heure:** | 15:00 - 16:30 |
+| **Heure:** | 15h00 - 16h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | A-832 |
 

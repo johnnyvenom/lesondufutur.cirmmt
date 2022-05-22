@@ -1,7 +1,7 @@
 ---
 
-title: "Panel: Axe de recherche 4"
-summary: "Jeudi | 11:45 - 12:45 | Tanna Hall (McGill)"
+title: "Panel : Axe de recherche 4"
+summary: "Jeudi | 11h45 - 12h45 | Tanna Hall (McGill)"
 weight: 330
 tags: ["Thursday", "Panel"]
 
@@ -12,7 +12,7 @@ tags: ["Thursday", "Panel"]
 | | |
 | - | - |
 | **Jour:** | Jeudi |
-| **Heure:** | 11:45 - 12:45 |
+| **Heure:** | 11h45 - 12h45 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 
@@ -22,8 +22,8 @@ tags: ["Thursday", "Panel"]
 
 ## Intervenants
 
+- **Robert Hasegawa**
 - [Myriam Boucher]({{< relref "/authors/myriam-boucher" >}})
-- Robert Hasegawa
 - Aaron Liu-Rosenbaum
 - [Fabrice Marandola]({{< relref "/authors/fabrice-marandola" >}})
 - Jean Piché

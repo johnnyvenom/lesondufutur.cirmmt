@@ -34,4 +34,4 @@ Insook a reçu son doctorat en arts musicaux de l'université de l'Illinois à U
 
 # À la conférence
 
-- [**Discours liminare 3:** *"Où coder les informations musicales"*]({{< relref "/session/wed/keynote-3.md">}}), avec [Robin Bargar]({{< relref "/authors/robin-bargar">}}) 
+- [**Conférence invitée 3:** *"Où coder les informations musicales"*]({{< relref "/session/wed/keynote-3.md">}}), avec [Robin Bargar]({{< relref "/authors/robin-bargar">}}) 

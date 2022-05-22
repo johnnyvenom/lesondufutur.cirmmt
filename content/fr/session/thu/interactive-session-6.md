@@ -1,7 +1,7 @@
 ---
 
-title: "Session interactive 6: La musique, incarnée et enracinée"
-summary: "Jeudi | 15:00 - 16:30 | C-204 (McGill)"
+title: "Session interactive 6 : La musique, incarnée et enracinée"
+summary: "Jeudi | 15h00 - 16h30 | C-204 (McGill)"
 weight: 351
 tags: ["Thursday", "Interactive session"]
 
@@ -12,7 +12,7 @@ tags: ["Thursday", "Interactive session"]
 | | |
 | - | - |
 | **Jour:** | Jeudi |
-| **Heure:** | 15:00 - 16:30 |
+| **Heure:** | 15h00 - 16h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | C-204 |
 
