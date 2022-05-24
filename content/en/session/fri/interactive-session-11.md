@@ -1,7 +1,7 @@
 ---
 
 title: "Interactive Session 11: Artificial Intelligence driving the shape of new realities"
-summary: "Friday | 11:00 - 12:30 | C-201/Studio 22 (McGill)"
+summary: "Friday | 11:00 - 12:30 | C-204 (McGill)"
 weight: 415
 tags: ["Friday", "Interactive session"]
 
@@ -14,7 +14,7 @@ tags: ["Friday", "Interactive session"]
 | **Day:** | Friday |
 | **Time:** | 11:00 - 12:30 |
 | **Location:** | McGill University |
-| **Room:** | C-201/Studio 22 |
+| **Room:** | C-204 |
 
 ## Title
 

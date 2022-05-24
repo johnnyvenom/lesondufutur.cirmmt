@@ -52,8 +52,8 @@ draft: false
 |             | [Interactive 3]({{< relref "/session/wed/interactive-session-3.md" >}}) | B521 | C. Guastavino |
 | *16:15-16:45* | *Coffee break*    | *Foyer* |
 | 16:45-17:30 | [Round table 1]({{< relref "/session/wed/round-table-1.md" >}}) | B421 |
-| 17:30-18:30 | [Workshop 1]({{< relref "/session/wed/workshop-1.md" >}})        | B-187 (Spat-GRIS) | Frisoli/Giannini |
-|             | [Interactive 4 ]({{< relref "/session/wed/interactive-session-4.md" >}}) | *tbd* | Barnat/Traube/Léotar |
+| 17:30-18:30 | [Workshop 1]({{< relref "/session/wed/workshop-1.md" >}})        | B187 (Spat-GRIS) | Frisoli/Giannini |
+|             | [Interactive 4 ]({{< relref "/session/wed/interactive-session-4.md" >}}) | B399 | Barnat/Traube/Léotar |
 | *18:30-19:30* | *Aperitif/dinner* | *Foyer* |
 | 19:30-21:00    | [Concert 2]({{< relref "/session/wed/concert-2.md" >}}) | Claude Champagne  | SIXTRUM/Thibaut/Boucher | 
 | | | | | |

@@ -1,7 +1,7 @@
 ---
 
 title: "Interactive Session 4: Audiovisual immersion in the heart of the musical performance"
-summary: " Wednesday | 17:30 - 18:30 | TBD (UdeM)"
+summary: " Wednesday | 17:30 - 18:30 | B399 (UdeM)"
 weight: 265
 tags: ["Wednesday", "Interactive session"]
 
@@ -14,7 +14,7 @@ tags: ["Wednesday", "Interactive session"]
 | **Day:** | Wednesday |
 | **Time:** | 17:30 - 18:30 |
 | **Location:** | Université de Montréal |
-| **Room:** | B187 (Spat-Gris) |
+| **Room:** | B399 |
 
 ## Title
 

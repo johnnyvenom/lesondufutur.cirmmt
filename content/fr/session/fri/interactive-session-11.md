@@ -1,7 +1,7 @@
 ---
 
 title: "Session interactive 11 : L'intelligence artificielle façonne de nouvelles réalités"
-summary: "Vendredi | 11h00 - 12h30 | C-201/Studio 22 (McGill)"
+summary: "Vendredi | 11h00 - 12h30 | C-204 (McGill)"
 weight: 415
 tags: ["Friday", "Interactive session"]
 
@@ -14,7 +14,7 @@ tags: ["Friday", "Interactive session"]
 | **Jour:** | Vendredi |
 | **Heure:** | 11h00 - 12h30 |
 | **Localisation:** | Université McGill |
-| **Salle:** | C-201/Studio 22 |
+| **Salle:** | C-204 |
 
 ## Titre
 
