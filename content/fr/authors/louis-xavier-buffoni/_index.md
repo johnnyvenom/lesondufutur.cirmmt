@@ -27,4 +27,4 @@ Louis-Xavier Buffoni dirige les équipes de recherche d'Audiokinetic et se conce
 
 # À la conférence
 
-- [**Conférence invitée 5:** *"La futur du son interactif"*]({{< relref "/session/thu/keynote-5.md" >}})
+- [**Conférence invitée 5:** *"La futur de la production du son interactif"*]({{< relref "/session/thu/keynote-5.md" >}})

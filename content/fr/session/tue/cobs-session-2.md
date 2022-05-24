@@ -1,8 +1,8 @@
 ---
 
-title: "Session CCOB 2 : Présentation d'étudiants"
-summary: "Mardi | 10h00 - 11h00 | Tanna Hall (McGill)"
-weight: 20
+title: "Session CCOB 2 : Nouveaux projets"
+summary: "Mardi | 11h30 - 12h15 | Tanna Hall (McGill)"
+weight: 30
 tags: ["COBS", "Tuesday"]
 
 ---
@@ -12,14 +12,14 @@ tags: ["COBS", "Tuesday"]
 | | |
 | - | - |
 | **Jour:** | Mardi |
-| **Heure:** | 10h00 - 11h00 |
+| **Heure:** | 11h30 - 12h15 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 
 ## Aperçu
 
-Seconde session de présentations orales par des étudiants membres du CIRMMT, de l'OICRM, et du BRAMS.
+Présentations de projets futurs par des étudiants membres du CIRMMT, de l'OICRM, et du BRAMS.
 
 ## Plus d'informations
 
-- Visiter le site du CCOB pour la liste des intervenants: http://www.ccob-cobs.org/
+- Visiter le site du CCOB pour la liste des intervenants : [http://www.ccob-cobs.org/2022/horaire](http://www.ccob-cobs.org/2022/horaire)

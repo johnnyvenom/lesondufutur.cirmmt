@@ -19,14 +19,13 @@ draft: false
 |:-----------|:--------------|:-----------|:----------------|
 |             |                |             |                  |
 | 8h30-9h   | *Table d'accueil*  | *Wirth Lobby* |
-| 9h-10h  | [CCOB session 1]({{< relref "/session/tue/cobs-session-1.md" >}}) | Tanna Hall  |
-| 10h-11h | [CCOB session 2]({{< relref "/session/tue/cobs-session-2.md" >}}) | Tanna Hall  |
+| 9h-11h  | [CCOB session 1]({{< relref "/session/tue/cobs-session-1.md" >}}) | Tanna Hall  |
 | 11h-11h30 | *Pause café*   | *Wirth Lobby* |
-| 11h30-12h15 | [CCOB session 3]({{< relref "/session/tue/cobs-session-3.md" >}}) | Tanna Hall  |
+| 11h30-12h15 | [CCOB session 2]({{< relref "/session/tue/cobs-session-2.md" >}}) | Tanna Hall  |
 | 12h15-13h | [Conférence invitée 1]({{< relref "/session/tue/keynote-1.md" >}})        | Tanna Hall  | P. A. Tremblay   |
 | 13h-14h30 | *Déjeuner*          | *Wirth Lobby* |
-| 14h30-15h30 | [CCOB session 4]({{< relref "/session/tue/cobs-session-4.md" >}}) | Tanna Hall  |
-| 15h30-16h30 | [CCOB session 5]({{< relref "/session/tue/cobs-session-5.md" >}}) | Tanna Hall  |
+| 14h30-15h30 | [CCOB session 3]({{< relref "/session/tue/cobs-session-3.md" >}}) | Tanna Hall  |
+| 15h30-16h30 | [CCOB session 4]({{< relref "/session/tue/cobs-session-4.md" >}}) | Tanna Hall  |
 | 16h30-17h30 | [Affiches 1]({{< relref "/session/tue/posters-1.md" >}}) & *Pause café*   | Wirth Lobby |
 | ------ | ------ | ------ | ------ |
 | 20h-21h | [Concert 1]({{< relref "/session/tue/concert-1.md" >}}) | Tanna Hall  | improv@CIRMMT |

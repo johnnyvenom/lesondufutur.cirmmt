@@ -28,4 +28,4 @@ Louis-Xavier Buffoni leads the research teams at Audiokinetic and has been focus
 # At the conference
 
 <!-- - [**Introduction & Panel 1** *"Research Axis 1: Instruments, devices & systems"*]({{< relref "/session/wed/panel-1.md" >}}), with [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}}) -->
-- [**Keynote 5:** *"The Future of Interactive Audio"*]({{< relref "/session/thu/keynote-5.md" >}})
+- [**Keynote 5:** *"The Future of Interactive Audio Production"*]({{< relref "/session/thu/keynote-5.md" >}})

@@ -12,8 +12,8 @@ subtitle:
 design:
   columns: '1'
   background:
-    # image: partner_logos_en.jpg
-    image: partner_logos_fr.jpg
+    image: partner_logos_en.jpg
+    # image: partner_logos_fr.jpg
     image_darken: 0
     image_parallax: false
     image_position: center

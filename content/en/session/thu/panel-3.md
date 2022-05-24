@@ -26,7 +26,7 @@ tags: ["Thursday", "Panel"]
 - [Joanna Berzowska]({{< relref "/authors/joanna-berzowska">}})
 - [Isabelle Cossette]({{< relref "/authors/isabelle-cossette">}})
 - Julie Cumming
-- Andrea Creech
+- [Andrea Creech]({{< relref "/authors/amanda-creech" >}})
 - Mickael Deroche
 - [Suresh Krishna]({{< relref "/authors/suresh-krishna">}})
 - [Frédéric Marin]({{< relref "/authors/frederic-marin">}})

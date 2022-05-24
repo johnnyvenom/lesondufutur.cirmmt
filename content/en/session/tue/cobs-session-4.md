@@ -1,8 +1,8 @@
 ---
 
-title: "COBS Session 4: Student presentations"
-summary: "Tuesday | 14:30 - 15:30 | Tanna Hall (McGill)"
-weight: 50
+title: "COBS Session 4: Composition"
+summary: "Tuesday | 15:45 - 16:30 | Tanna Hall (McGill)"
+weight: 60
 tags: ["COBS", "Tuesday"]
 
 ---
@@ -12,7 +12,7 @@ tags: ["COBS", "Tuesday"]
 | | |
 | - | - |
 | **Day:** | Tuesday |
-| **Time:** | 14:30 - 15:30 |
+| **Time:** | 15:45 - 16:30 |
 | **Location:** | McGill University |
 | **Room:** | Tanna Schulich Hall |
 
@@ -22,4 +22,4 @@ Fourth session of panel presentations from CIRMMT, OICRM and BRAMS student membe
 
 ## More info
 
-- See the COBS website for list of presenters: http://www.ccob-cobs.org/
+- See the COBS website for full schedule: [http://www.ccob-cobs.org/2022/horaire](http://www.ccob-cobs.org/2022/horaire)

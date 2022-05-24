@@ -27,4 +27,5 @@ Dr Andrea Creech is Professor of Music Pedagogy and Associate Dean of Academic a
 
 # At the conference
 
+- [**Panel 3:** *"Research Axis 3: Cognition, perception and movement"*]({{< relref "/session/thu/panel-3.md" >}})
 - [**Interactive Session 8** *"Creative Later-Life in a Digital Age: Mobilizing technology for inclusive later-life musical learning, participation and creativity"*]({{< relref "/session/fri/interactive-session-8.md" >}})

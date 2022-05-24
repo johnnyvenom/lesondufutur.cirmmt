@@ -23,4 +23,4 @@ Première session pour les présentations de posters d'étudiants-chercheurs pro
 
 ## Plus d'informations
 
-- Visiter le site du CCOB pour la liste des intervenants: http://www.ccob-cobs.org/
+- Visiter le site du CCOB pour la liste des intervenants : [http://www.ccob-cobs.org/2022/horaire](http://www.ccob-cobs.org/2022/horaire)

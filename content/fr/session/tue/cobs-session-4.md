@@ -1,8 +1,8 @@
 ---
 
-title: "Session CCOB 4 : Présentations d'étudiants"
-summary: "Mardi | 14h30 - 15h30 | Tanna Hall (McGill)"
-weight: 50
+title: "Session CCOB 4 : Composition"
+summary: "Mardi | 15h45 - 16h30 | Tanna Hall (McGill)"
+weight: 60
 tags: ["COBS", "Tuesday"]
 
 ---
@@ -12,14 +12,14 @@ tags: ["COBS", "Tuesday"]
 | | |
 | - | - |
 | **Jour:** | Mardi |
-| **Heure:** | 14h30 - 15h30 |
+| **Heure:** | 15h45 - 16h30 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 
 ## Aperçu
 
-Quatrième session de présentations par des étudiants membres du CIRMMT, de l'OICRM, et du BRAMS.
+ Quatrième session de présentations par des étudiants membres du CIRMMT, de l'OICRM, et du BRAMS.
 
 ## Plus d'informations
 
-- Visiter le site du CCOB pour la liste des intervenants: http://www.ccob-cobs.org/
+- Visiter le site du CCOB pour la liste des intervenants : [http://www.ccob-cobs.org/2022/horaire](http://www.ccob-cobs.org/2022/horaire)

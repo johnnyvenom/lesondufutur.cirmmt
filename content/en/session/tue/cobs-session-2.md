@@ -1,8 +1,9 @@
 ---
 
-title: "COBS Session 2: Student presentations"
-summary: "Tuesday | 10:00 - 11:00 | Tanna Hall (McGill)"
-weight: 20
+title: "COBS Session 2: New projects"
+summary: "Tuesday | 11:30 - 12:15 | Tanna Hall (McGill)"
+
+weight: 30
 tags: ["COBS", "Tuesday"]
 
 ---
@@ -12,14 +13,14 @@ tags: ["COBS", "Tuesday"]
 | | |
 | - | - |
 | **Day:** | Tuesday |
-| **Time:** | 10:00 - 11:00 |
+| **Time:** | 11:30 - 12:15 |
 | **Location:** | McGill University |
 | **Room:** | Tanna Schulich Hall |
 
 ## Overview
 
-Second session of panel presentations from CIRMMT, OICRM and BRAMS student members. 
+- Presentations of upcoming projects from CIRMMT, OICRM and BRAMS student members.
 
 ## More info
 
-- See the COBS website for list of presenters: http://www.ccob-cobs.org/
+- See the COBS website for full schedule: [http://www.ccob-cobs.org/2022/horaire](http://www.ccob-cobs.org/2022/horaire)

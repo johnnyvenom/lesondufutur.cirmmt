@@ -16,4 +16,10 @@ tags: ["Wednesday", "Round table"]
 | **Location:** | Université de Montréal |
 | **Room:** | B421 |
 
-Information coming soon.
+## Overview
+
+A wrap-up and discussion on the events and presentations of the day.
+
+## Presenters
+
+- A selection of panelists and presenters from the day's sessions. 

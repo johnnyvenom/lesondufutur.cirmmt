@@ -16,4 +16,10 @@ tags: ["Thursday", "Round table"]
 | **Location:** | McGill University |
 | **Room:** | Tanna Schulich Hall |
 
-Information coming soon.
+## Overview
+
+A wrap-up and discussion on the events and presentations of the day.
+
+## Presenters
+
+- A selection of panelists and presenters from the day's sessions. 

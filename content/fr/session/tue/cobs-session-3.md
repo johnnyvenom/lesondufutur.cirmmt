@@ -1,8 +1,8 @@
 ---
 
-title: "Session CCOB 3 : Nouveaux projets"
-summary: "Mardi | 11h30 - 12h15 | Tanna Hall (McGill)"
-weight: 30
+title: "Session CCOB 3 : Technologie"
+summary: "Mardi | 14h30 - 15h45 | Tanna Hall (McGill)"
+weight: 50
 tags: ["COBS", "Tuesday"]
 
 ---
@@ -12,14 +12,14 @@ tags: ["COBS", "Tuesday"]
 | | |
 | - | - |
 | **Jour:** | Mardi |
-| **Heure:** | 11h30 - 12h15 |
+| **Heure:** | 14h30 - 15h45 |
 | **Localisation:** | Université McGill |
 | **Salle:** | Tanna Schulich Hall |
 
 ## Aperçu
 
-Présentations de projets futurs par des étudiants membres du CIRMMT, de l'OICRM, et du BRAMS.
+Troisième session de présentations par des étudiants membres du CIRMMT, de l'OICRM, et du BRAMS.
 
 ## Plus d'informations
 
-- Visiter le site du CCOB pour la liste des intervenants: http://www.ccob-cobs.org/
+- Visiter le site du CCOB pour la liste des intervenants : [http://www.ccob-cobs.org/2022/horaire](http://www.ccob-cobs.org/2022/horaire)
