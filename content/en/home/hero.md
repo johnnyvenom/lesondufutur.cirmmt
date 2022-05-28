@@ -19,6 +19,10 @@ design:
     padding: ['100px', '0', '100px', '0']
 advanced:
 #   css_class: fullscreen
+
+cta_note:
+  label: 'Photo: Spatial Auditory Laboratory @ CIRMMT (Cedric Camier)'
+
 ---
 
 #### An international conference hosted by the **[Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)](https://cirmmt.org)**. 

@@ -18,13 +18,13 @@ tags: ["Thursday", "Concert"]
 
 ## Programme
 
-- **[Joshua Bucchi]({{< relref "/authors/joshua-bucchi" >}})** *"Shrubberies  of  semiconductors:  Les  lambeaux  de  mon  cœur"* [premiere]
-  - **Performers:** [Ensemble Aukio]({{< relref "/authors/ensemble-aukio" >}}): Anne Chabot-Bucchi (percussion), Justine Pelletier (piano), Joseph Fox (percussion), Felipe Verdugo (piano), Joshua Bucchi (electronics/diffusion)
-- **[Mélanie Frisoli]({{< relref "/authors/melanie-frisoli" >}})** *"Le bruit I - Spatialized acousmatic work"* [premiere]
-- **[Jason Noble]({{< relref "/authors/jason-noble" >}})** *"Freeze - For augmented drum kit"* [premiere]
-  - **performed by:** [Martin Daigle]({{< relref "/authors/martin-daigle" >}}) (percussion), [Edu Meneses]({{< relref "/authors/edu-meneses" >}}) (electronics & mapping)
-- **Xue Han** *"en passant"* [premiere]
-  - **réalisé par :** [Martin Daigle]({{< relref "/authors/martin-daigle" >}}) (percussion), [Seph Li]({{< relref "/authors/seph-li" >}}) (visual artist)
+- **Xue Han** *"en passant"* [création]
+  - **réalisé par :** [Martin Daigle]({{< relref "/authors/martin-daigle" >}}) (percussion), Xue Han et Quentin Lauvray (électronique), [Seph Li]({{< relref "/authors/seph-li" >}}) (artiste visuel), Xiaonan Da, et Francesco Capone (assistance technique)
+- **[Joshua Bucchi]({{< relref "/authors/joshua-bucchi" >}})** *"Shrubberies  of  semiconductors:  Les  lambeaux  de  mon  cœur"* [création]
+  - **Performers:** [Ensemble Aukio]({{< relref "/authors/ensemble-aukio" >}}): Anne Chabot-Bucchi (percussions), Justine Pelletier (piano), Joseph Fox (percussions), Felipe Verdugo (piano), Joshua Bucchi (électronique/diffusion)
+- **[Mélanie Frisoli]({{< relref "/authors/melanie-frisoli" >}})** *"Le bruit I - Pièce acousmatique spatiale"* [création]
+- **[Jason Noble]({{< relref "/authors/jason-noble" >}})** *"Freeze - Pour kit de batterie augmenté"* [création]
+  - **performed by:** [Martin Daigle]({{< relref "/authors/martin-daigle" >}}) (interprète), [Edu Meneses]({{< relref "/authors/edu-meneses" >}}) (électronique & cartographie sonore)
 
 ## Plus d'informations
 

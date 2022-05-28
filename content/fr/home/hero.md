@@ -7,6 +7,9 @@ title: |
     le futur du son
 hero_media: "cirmmt_spatial_audio.jpg"
 
+cta_note:
+  label: 'Photo: Laboratoire sonore spatialisé @ CIRMMT (Cedric Camier)'
+
 design:
   background:
     image: richard-horvath-OcXxgXYucHo-unsplash_darker.jpg
